@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UAP WAR ROOM Â· FenÃ³menos No Humanos</title>
+<title>UAP WAR ROOM · Fenómenos No Humanos</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <style>
 :root{
@@ -17,7 +17,7 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display:flex;flex-direction:column}
 
-/* ââ HEADER ââ */
+/* ── HEADER ── */
 #hdr{
   height:var(--h);background:linear-gradient(180deg,#0e0e28,var(--bg));
   border-bottom:1px solid var(--border2);display:flex;align-items:center;
@@ -36,10 +36,10 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 .dot{width:7px;height:7px;border-radius:50%;background:var(--red);animation:blink 1.4s infinite}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
 
-/* ââ APP ââ */
+/* ── APP ── */
 #app{flex:1;display:flex;overflow:hidden}
 
-/* ââ SIDEBAR ââ */
+/* ── SIDEBAR ── */
 #sb{
   width:var(--sw);background:var(--panel);border-right:1px solid var(--border);
   display:flex;flex-direction:column;overflow-y:auto;flex-shrink:0;
@@ -67,7 +67,7 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 .fi:hover{opacity:1}
 .fi.off{opacity:.28}
 .f-chk{width:11px;height:11px;border:1px solid currentColor;border-radius:1px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
-.fi:not(.off) .f-chk::after{content:'â';font-size:8px}
+.fi:not(.off) .f-chk::after{content:'✓';font-size:8px}
 .f-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
 .f-lbl{font-size:9px;flex:1;color:var(--text)}
 .f-cnt{font-size:9px;color:var(--text-dim);min-width:18px;text-align:right}
@@ -79,7 +79,7 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 
 /* sources */
 .src{font-size:9px;color:var(--text-dim);padding:3px 0;display:flex;align-items:center;gap:5px}
-.src::before{content:'â¸';color:var(--purple)}
+.src::before{content:'▸';color:var(--purple)}
 
 /* event panel */
 #ep{padding:12px;background:var(--panel2);display:none}
@@ -94,7 +94,7 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 .ep-srcs{font-size:8px;border-top:1px solid var(--border);padding-top:6px}
 .ep-tag{display:inline-block;padding:1px 5px;background:rgba(170,0,255,.13);border:1px solid rgba(170,0,255,.3);color:var(--cyan);border-radius:2px;margin:2px 2px 0 0;font-size:8px}
 
-/* ââ MAP ââ */
+/* ── MAP ── */
 #map{flex:1;background:#05050c}
 .leaflet-container{background:#05050c!important;font-family:'Courier New',monospace}
 .leaflet-popup-content-wrapper{
@@ -128,7 +128,7 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 }
 .new-tag{font-size:7px;padding:1px 4px;background:rgba(255,170,0,.18);border:1px solid var(--amber);color:var(--amber);border-radius:2px;animation:blink 1s infinite;margin-right:3px}
 
-/* ââ FOOTER ââ */
+/* ── FOOTER ── */
 #ft{height:var(--fh);background:var(--panel);border-top:1px solid var(--border);display:flex;align-items:center;padding:0 14px;gap:14px;flex-shrink:0}
 .fi2{font-size:8px;color:var(--text-dim);letter-spacing:1px}
 .fs{color:var(--border2)}
@@ -144,15 +144,15 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
 <!-- HEADER -->
 <div id="hdr">
   <div class="h-logo">
-    <div class="t1">â UAP WAR ROOM</div>
-    <div class="t2">FENÃMENOS NO HUMANOS Â· REGISTRO GLOBAL</div>
+    <div class="t1">◉ UAP WAR ROOM</div>
+    <div class="t2">FENÓMENOS NO HUMANOS · REGISTRO GLOBAL</div>
   </div>
   <div class="h-sep"></div>
   <div class="h-stats">
-    <div class="h-stat c"><div class="v" id="hs-total">â</div><div class="l">EVENTOS VISIBLES</div></div>
-    <div class="h-stat a"><div class="v" id="hs-new">â</div><div class="l">NUEVOS (HOY)</div></div>
-    <div class="h-stat"><div class="v" id="hs-countries">â</div><div class="l">PAÃSES</div></div>
-    <div class="h-stat"><div class="v" id="hs-witnesses">â</div><div class="l">TESTIGOS</div></div>
+    <div class="h-stat c"><div class="v" id="hs-total">—</div><div class="l">EVENTOS VISIBLES</div></div>
+    <div class="h-stat a"><div class="v" id="hs-new">—</div><div class="l">NUEVOS (HOY)</div></div>
+    <div class="h-stat"><div class="v" id="hs-countries">—</div><div class="l">PAÍSES</div></div>
+    <div class="h-stat"><div class="v" id="hs-witnesses">—</div><div class="l">TESTIGOS</div></div>
   </div>
   <div class="live"><span class="dot"></span>EN VIVO</div>
 </div>
@@ -165,9 +165,9 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
     <div class="sec">
       <div class="sec-t">MODO</div>
       <div class="m-tog">
-        <button class="m-btn on" data-mode="recent">ð¡ ÃLTIMOS 7 DÃAS</button>
-        <button class="m-btn" data-mode="historical">ð HISTÃRICO</button>
-        <button class="m-btn" data-mode="both">â AMBOS</button>
+        <button class="m-btn on" data-mode="recent">📡 ÚLTIMOS 7 DÍAS</button>
+        <button class="m-btn" data-mode="historical">📁 HISTÓRICO</button>
+        <button class="m-btn" data-mode="both">⊕ AMBOS</button>
       </div>
     </div>
 
@@ -181,7 +181,7 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
     </div>
 
     <div class="sec">
-      <div class="sec-t">ESTADÃSTICAS DEL MODO</div>
+      <div class="sec-t">ESTADÍSTICAS DEL MODO</div>
       <div id="slist"></div>
     </div>
 
@@ -189,11 +189,11 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
       <div class="sec-t">FUENTES DE DATOS</div>
       <div class="src">GDELT v2 (global, 100+ idiomas)</div>
       <div class="src">NUFORC (reportes civiles USA)</div>
-      <div class="src">MUFON (red de investigaciÃ³n)</div>
+      <div class="src">MUFON (red de investigación)</div>
       <div class="src">Google News RSS (multi-idioma)</div>
-      <div class="src">Reddit r/UFOs Â· r/aliens</div>
+      <div class="src">Reddit r/UFOs · r/aliens</div>
       <div class="src">Registros desclasificados DoD</div>
-      <div class="src">PeriÃ³dicos locales + AARO</div>
+      <div class="src">Periódicos locales + AARO</div>
     </div>
 
     <div id="ep">
@@ -210,251 +210,251 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
 <div id="ft">
   <span class="fi2">UAP WAR ROOM v1.0</span>
   <span class="fs">|</span>
-  <span class="fi2" id="ft-upd">ACT: â</span>
+  <span class="fi2" id="ft-upd">ACT: —</span>
   <span class="fs">|</span>
-  <span class="fi2">GDELT Â· NUFORC Â· MUFON Â· Google News</span>
+  <span class="fi2">GDELT · NUFORC · MUFON · Google News</span>
   <span class="fs">|</span>
-  <span class="fi2">â  SEÃALES NO VERIFICADAS â CONFIRMA EN LA FUENTE ORIGINAL</span>
+  <span class="fi2">⚠ SEÐALES NO VERIFICADAS — CONFIRMA EN LA FUENTE ORIGINAL</span>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
-// // ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// // ══════════════════════════════════════════════════════════════
 //  TIPOS DE EVENTO
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 const T = {
-  ufo:          {l:'OVNI / UAP (aÃ©reo)',       c:'#00e5ff', e:'ð¸'},
-  uso:          {l:'USO / MarÃ­timo',            c:'#0055ff', e:'ð'},
-  contact:      {l:'Contacto / Alien',          c:'#cc00ff', e:'ð½'},
-  lights_sky:   {l:'Luces extraÃ±as (cielo)',    c:'#ffff44', e:'â¨'},
-  lights_sea:   {l:'Luces extraÃ±as (mar)',      c:'#00aaff', e:'ð§'},
-  lights_ground:{l:'Luces extraÃ±as (tierra)',   c:'#ff8800', e:'ð¦'},
-  sound:        {l:'Sonidos inexplicables',     c:'#ff44cc', e:'ð'},
-  em:           {l:'AnomalÃ­a EM / magnÃ©tica',   c:'#ff3355', e:'â¡'},
-  crop:         {l:'Figuras en campo',          c:'#88ff44', e:'ð¾'},
-  other:        {l:'Otro fenÃ³meno',             c:'#999999', e:'â'}
+  ufo:          {l:'OVNI / UAP (aéreo)',       c:'#00e5ff', e:'🛸'},
+  uso:          {l:'USO / Marítimo',            c:'#0055ff', e:'🌊'},
+  contact:      {l:'Contacto / Alien',          c:'#cc00ff', e:'👽'},
+  lights_sky:   {l:'Luces extrañas (cielo)',    c:'#ffff44', e:'✨'},
+  lights_sea:   {l:'Luces extrañas (mar)',      c:'#00aaff', e:'💧'},
+  lights_ground:{l:'Luces extrañas (tierra)',   c:'#ff8800', e:'🔦'},
+  sound:        {l:'Sonidos inexplicables',     c:'#ff44cc', e:'🔊'},
+  em:           {l:'Anomalía EM / magnética',   c:'#ff3355', e:'⚡'},
+  crop:         {l:'Figuras en campo',          c:'#88ff44', e:'🌾'},
+  other:        {l:'Otro fenómeno',             c:'#999999', e:'❓'}
 };
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-//  DATOS DE MUESTRA  (en producciÃ³n se cargan de data/*.geojson)
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
+//  DATOS DE MUESTRA  (en producción se cargan de data/*.geojson)
+// ══════════════════════════════════════════════════════════════
 const SAMPLE = [
-  // âââ RECIENTES (Ãºltimos 7 dÃ­as desde 2026-09-03) âââ
+  // ─── RECIENTES (últimos 7 días desde 2026-09-03) ───
   {id:'R01',lat:33.448,lng:-112.074,type:'lights_sky',date:'2026-09-02',recent:true,isNew:true,
-   title:'FormaciÃ³n de luces sobre Phoenix, AZ',
-   desc:'47 testigos independientes documentan una formaciÃ³n en V sobre el Ã¡rea metropolitana. Videos en mÃºltiples redes. Ninguna actividad militar confirmada.',
+   title:'Formación de luces sobre Phoenix, AZ',
+   desc:'47 testigos independientes documentan una formación en V sobre el área metropolitana. Videos en múltiples redes. Ninguna actividad militar confirmada.',
    witnesses:47,credibility:'ALTA',country:'EE.UU.',
    sources:['Twitter @azufowatch','ABC15 Arizona','NUFORC#231541']},
 
   {id:'R02',lat:62.872,lng:10.015,type:'lights_sky',date:'2026-09-01',recent:true,
-   title:'Hessdalen â actividad elevada',
-   desc:'La estaciÃ³n de monitoreo permanente registra un incremento inusual en el nÃºmero y duraciÃ³n de las luces no identificadas. 8 testigos locales confirman los datos del instrumento.',
+   title:'Hessdalen — actividad elevada',
+   desc:'La estación de monitoreo permanente registra un incremento inusual en el número y duración de las luces no identificadas. 8 testigos locales confirman los datos del instrumento.',
    witnesses:8,credibility:'MUY ALTA',country:'Noruega',
    sources:['Hessdalen Project','VG.no','SINTEF sensors']},
 
   {id:'R03',lat:20.66,lng:-103.35,type:'ufo',date:'2026-08-30',recent:true,
    title:'OVNI sobre Guadalajara, Jalisco',
-   desc:'Objeto esfÃ©rico metÃ¡lico estacionario documentado por 22 personas. Piloto de aviaciÃ³n comercial confirma el avistamiento desde su aeronave durante el descenso.',
-   witnesses:22,credibility:'ALTA',country:'MÃ©xico',
+   desc:'Objeto esférico metálico estacionario documentado por 22 personas. Piloto de aviación comercial confirma el avistamiento desde su aeronave durante el descenso.',
+   witnesses:22,credibility:'ALTA',country:'México',
    sources:['Milenio TV','Twitter @jalisco_ufo','MUFON #146892']},
 
   {id:'R04',lat:-23.55,lng:-46.63,type:'lights_sky',date:'2026-09-02',recent:true,isNew:true,
-   title:'Luces inexplicables sobre SÃ£o Paulo',
-   desc:'MÃ¡s de 120 personas en diferentes puntos de la ciudad reportan formaciÃ³n de luces sin patrÃ³n conocido. Evento dura aproximadamente 18 minutos. 40+ videos en YouTube.',
+   title:'Luces inexplicables sobre São Paulo',
+   desc:'Más de 120 personas en diferentes puntos de la ciudad reportan formación de luces sin patrón conocido. Evento dura aproximadamente 18 minutos. 40+ videos en YouTube.',
    witnesses:120,credibility:'MEDIA',country:'Brasil',
    sources:['Folha de S.Paulo','G1 Globo','YouTube (40+ videos)']},
 
   {id:'R05',lat:35.676,lng:139.65,type:'ufo',date:'2026-08-31',recent:true,
    title:'UAP filmado sobre Tokio',
-   desc:'Objeto disciforme grabado en alta resoluciÃ³n en el Ã¡rea de Shinjuku por 31 testigos. El JSDF niega actividad en la zona. Video supera 2 millones de vistas.',
-   witnesses:31,credibility:'ALTA',country:'JapÃ³n',
+   desc:'Objeto disciforme grabado en alta resolución en el área de Shinjuku por 31 testigos. El JSDF niega actividad en la zona. Video supera 2 millones de vistas.',
+   witnesses:31,credibility:'ALTA',country:'Japón',
    sources:['Asahi Shimbun','Twitter Japan','YouTube (viral)']},
 
   {id:'R06',lat:40.417,lng:-3.704,type:'ufo',date:'2026-09-01',recent:true,
    title:'Objeto triangular sobre Madrid',
-   desc:'Residentes del norte de Madrid reportan objeto triangular con luces en las esquinas. AENA confirma que no habÃ­a vuelos registrados en esas coordenadas a esa hora.',
-   witnesses:13,credibility:'MEDIA',country:'EspaÃ±a',
-   sources:['El PaÃ­s','COPE Radio','Twitter Spain']},
+   desc:'Residentes del norte de Madrid reportan objeto triangular con luces en las esquinas. AENA confirma que no había vuelos registrados en esas coordenadas a esa hora.',
+   witnesses:13,credibility:'MEDIA',country:'España',
+   sources:['El País','COPE Radio','Twitter Spain']},
 
   {id:'R07',lat:-34.929,lng:138.601,type:'lights_sea',date:'2026-09-02',recent:true,isNew:true,
-   title:'Luces submarinas â Golfo de St. Vincent',
+   title:'Luces submarinas — Golfo de St. Vincent',
    desc:'Pescadores reportan luces brillantes bajo la superficie del agua, sin embarcaciones sumergibles registradas por la Guardia Costera australiana.',
    witnesses:9,credibility:'MEDIA',country:'Australia',
    sources:['ABC Australia','The Advertiser','AMSA records']},
 
   {id:'R08',lat:19.076,lng:72.878,type:'lights_sky',date:'2026-08-30',recent:true,
-   title:'Luces en formaciÃ³n sobre Mumbai',
-   desc:'MÃ¡s de 200 personas en el Ã¡rea de Bandra filman luces que cambian de formaciÃ³n lentamente durante 12 minutos. NingÃºn evento ni festividad registrada.',
+   title:'Luces en formación sobre Mumbai',
+   desc:'Más de 200 personas en el área de Bandra filman luces que cambian de formación lentamente durante 12 minutos. Ningún evento ni festividad registrada.',
    witnesses:200,credibility:'MEDIA',country:'India',
    sources:['Times of India','NDTV','Twitter India trending']},
 
   {id:'R09',lat:6.524,lng:3.379,type:'ufo',date:'2026-09-02',recent:true,
    title:'Objeto no identificado sobre Lagos',
-   desc:'Disco metÃ¡lico sobre Victoria Island. 35 testigos en distintos puntos. La Autoridad Civil de AviaciÃ³n de Nigeria niega tener aeronave registrada en la zona.',
+   desc:'Disco metálico sobre Victoria Island. 35 testigos en distintos puntos. La Autoridad Civil de Aviación de Nigeria niega tener aeronave registrada en la zona.',
    witnesses:35,credibility:'MEDIA',country:'Nigeria',
    sources:['Punch Nigeria','The Guardian Nigeria','Twitter Nigeria']},
 
   {id:'R10',lat:-34.604,lng:-58.382,type:'ufo',date:'2026-09-01',recent:true,
    title:'CEFORA: 28 reportes UAP sobre Buenos Aires',
-   desc:'El Centro de AnÃ¡lisis de FenÃ³menos Aeroespaciales argentino recibe 28 reportes independientes sobre objeto lenticular sobre el Gran Buenos Aires.',
+   desc:'El Centro de Análisis de Fenómenos Aeroespaciales argentino recibe 28 reportes independientes sobre objeto lenticular sobre el Gran Buenos Aires.',
    witnesses:28,credibility:'ALTA',country:'Argentina',
-   sources:['La NaciÃ³n','CEFORA (reporte oficial)','Infobae']},
+   sources:['La Nación','CEFORA (reporte oficial)','Infobae']},
 
   {id:'R11',lat:51.507,lng:-0.128,type:'sound',date:'2026-09-03',recent:true,isNew:true,
-   title:'Sonido metÃ¡lico sin fuente â norte de Londres',
-   desc:'MÃ¡s de 500 residentes reportan sonido de "trompeta" sin origen identificado. Scotland Yard y Transport for London descartan causa mecÃ¡nica. Dura 11 minutos.',
+   title:'Sonido metálico sin fuente — norte de Londres',
+   desc:'Más de 500 residentes reportan sonido de "trompeta" sin origen identificado. Scotland Yard y Transport for London descartan causa mecánica. Dura 11 minutos.',
    witnesses:500,credibility:'MEDIA',country:'Reino Unido',
    sources:['The Guardian','BBC London','Reddit r/UFOs (viral)']},
 
   {id:'R12',lat:52.133,lng:-106.67,type:'em',date:'2026-09-02',recent:true,
-   title:'AnomalÃ­a EM â Saskatchewan, CanadÃ¡',
-   desc:'Apagones localizados y fallas de electrÃ³nica en radio de 3 km. VehÃ­culos se detienen sin razÃ³n. 12 testigos confirman que las brÃºjulas giraban sin control.',
-   witnesses:12,credibility:'MEDIA',country:'CanadÃ¡',
-   sources:['CBC Saskatchewan','SaskPower (sin explicaciÃ³n)','MUFON #146901']},
+   title:'Anomalía EM — Saskatchewan, Canadá',
+   desc:'Apagones localizados y fallas de electrónica en radio de 3 km. Vehículos se detienen sin razón. 12 testigos confirman que las brújulas giraban sin control.',
+   witnesses:12,credibility:'MEDIA',country:'Canadá',
+   sources:['CBC Saskatchewan','SaskPower (sin explicación)','MUFON #146901']},
 
   {id:'R13',lat:55.755,lng:37.617,type:'ufo',date:'2026-09-01',recent:true,
-   title:'UAP captado sobre MoscÃº',
-   desc:'Objeto con destellos irregulares filmado desde mÃºltiples puntos de la capital rusa durante 25 minutos. El Ministerio de Defensa no emite comentario.',
+   title:'UAP captado sobre Moscú',
+   desc:'Objeto con destellos irregulares filmado desde múltiples puntos de la capital rusa durante 25 minutos. El Ministerio de Defensa no emite comentario.',
    witnesses:60,credibility:'MEDIA',country:'Rusia',
    sources:['RIA Novosti','Telegram channels','YouTube Russia']},
 
   {id:'R14',lat:30.033,lng:31.233,type:'lights_sky',date:'2026-09-02',recent:true,
    title:'Luces sobre El Cairo',
-   desc:'FormaciÃ³n de tres luces en triÃ¡ngulo estacionaria por 8 minutos sobre el Ã¡rea del Gran Cairo. Documentada por decenas de personas en distintos distritos.',
+   desc:'Formación de tres luces en triángulo estacionaria por 8 minutos sobre el área del Gran Cairo. Documentada por decenas de personas en distintos distritos.',
    witnesses:45,credibility:'MEDIA',country:'Egipto',
    sources:['Al-Masry Al-Youm','Twitter Egypt','YouTube El Cairo']},
 
-  // âââ HISTÃRICOS âââ
+  // ─── HISTÓRICOS ───
   {id:'H01',lat:51.667,lng:1.383,type:'contact',date:'1980-12-26',recent:false,
-   title:'Bosque Rendlesham â caso mÃ¡s documentado de UK',
-   desc:'Personal militar de la USAF en Suffolk reporta una nave aterrizada durante tres noches. El Teniente Coronel Halt graba el evento en audio. Hubo marcas fÃ­sicas en el suelo. Considerado el caso de mayor credibilidad en Europa.',
+   title:'Bosque Rendlesham — caso más documentado de UK',
+   desc:'Personal militar de la USAF en Suffolk reporta una nave aterrizada durante tres noches. El Teniente Coronel Halt graba el evento en audio. Hubo marcas físicas en el suelo. Considerado el caso de mayor credibilidad en Europa.',
    witnesses:6,credibility:'MUY ALTA',country:'Reino Unido',
    sources:['USAF Halt Memo (oficial)','The Halt Encounters (2016)','MoD Freedom of Information']},
 
   {id:'H02',lat:50.5,lng:4.5,type:'ufo',date:'1990-03-30',recent:false,
-   title:'Oleada Belga â triÃ¡ngulos sobre BÃ©lgica',
-   desc:'13,500 testigos reportan objetos triangulares sobre todo el paÃ­s durante meses. La Fuerza AÃ©rea Belga los intercepta sin Ã©xito. El radar confirma velocidades y maniobras imposibles para aeronaves convencionales.',
-   witnesses:13500,credibility:'MUY ALTA',country:'BÃ©lgica',
-   sources:['SOBEPS','Fuerza AÃ©rea Belga (comunicado oficial)','La Libre Belgique']},
+   title:'Oleada Belga — triángulos sobre Bélgica',
+   desc:'13,500 testigos reportan objetos triangulares sobre todo el país durante meses. La Fuerza Aérea Belga los intercepta sin éxito. El radar confirma velocidades y maniobras imposibles para aeronaves convencionales.',
+   witnesses:13500,credibility:'MUY ALTA',country:'Bélgica',
+   sources:['SOBEPS','Fuerza Aérea Belga (comunicado oficial)','La Libre Belgique']},
 
   {id:'H03',lat:-21.7,lng:-43.4,type:'contact',date:'1996-01-20',recent:false,
    title:'Incidente de Varginha, Brasil',
-   desc:'MÃºltiples residentes reportan criaturas heridas en zonas separadas de la ciudad. Bomberos y militares brasileÃ±os acuden al lugar. Se reporta la recuperaciÃ³n de dos seres no humanos.',
+   desc:'Múltiples residentes reportan criaturas heridas en zonas separadas de la ciudad. Bomberos y militares brasileños acuden al lugar. Se reporta la recuperación de dos seres no humanos.',
    witnesses:40,credibility:'ALTA',country:'Brasil',
-   sources:['MUFON Brasil','A Tarde newspaper','VitÃ³rio Pacaccini investigation']},
+   sources:['MUFON Brasil','A Tarde newspaper','Vitório Pacaccini investigation']},
 
   {id:'H04',lat:33.448,lng:-112.074,type:'lights_sky',date:'1997-03-13',recent:false,
-   title:'Luces de Phoenix â 10,000 testigos',
-   desc:'Una formaciÃ³n de luces de mÃ¡s de 2 km de ancho recorre Arizona a baja altitud. El gobernador Symington la llama inicialmente "globo" en una conferencia de prensa, luego declara pÃºblicamente que "era algo no de este mundo".',
+   title:'Luces de Phoenix — 10,000 testigos',
+   desc:'Una formación de luces de más de 2 km de ancho recorre Arizona a baja altitud. El gobernador Symington la llama inicialmente "globo" en una conferencia de prensa, luego declara públicamente que "era algo no de este mundo".',
    witnesses:10000,credibility:'MUY ALTA',country:'EE.UU.',
    sources:['The Arizona Republic','USA Today','Governor Symington statement (2007)']},
 
   {id:'H05',lat:33.394,lng:-104.52,type:'other',date:'1947-07-08',recent:false,
-   title:'Roswell â el caso seminal',
-   desc:'El Army Air Field de Roswell emite comunicado anunciando la recuperaciÃ³n de un "platillo volador". En 24 horas, la historia cambia a globo meteorolÃ³gico. El Mayor Jesse Marcel declara que el material no era de ningÃºn tipo conocido.',
-   witnesses:30,credibility:'HISTÃRICO',country:'EE.UU.',
+   title:'Roswell — el caso seminal',
+   desc:'El Army Air Field de Roswell emite comunicado anunciando la recuperación de un "platillo volador". En 24 horas, la historia cambia a globo meteorológico. El Mayor Jesse Marcel declara que el material no era de ningún tipo conocido.',
+   witnesses:30,credibility:'HISTÓRICO',country:'EE.UU.',
    sources:['Roswell Daily Record (8-Jul-1947)','USAF Project Mogul report','Jesse Marcel testimony']},
 
   {id:'H06',lat:40.373,lng:-79.527,type:'ufo',date:'1965-12-09',recent:false,
-   title:'Kecksburg â algo cayÃ³ en el bosque',
-   desc:'Miles ven una bola de fuego cruzar varios estados de EE.UU. El ejÃ©rcito acuerda el bosque de Kecksburg. Un objeto acampanado con sÃ­mbolos grabados es retirado en camiÃ³n sin identificaciÃ³n. La NASA publica expediente incompleto tras demanda FOIA.',
+   title:'Kecksburg — algo cayó en el bosque',
+   desc:'Miles ven una bola de fuego cruzar varios estados de EE.UU. El ejército acuerda el bosque de Kecksburg. Un objeto acampanado con símbolos grabados es retirado en camión sin identificación. La NASA publica expediente incompleto tras demanda FOIA.',
    witnesses:1000,credibility:'ALTA',country:'EE.UU.',
    sources:['NICAP','Pittsburgh Press','NASA FOIA (expediente parcial)']},
 
   {id:'H07',lat:43.9,lng:-64.8,type:'uso',date:'1967-10-04',recent:false,
-   title:'Shag Harbour â USO en CanadÃ¡',
-   desc:'Once testigos ven objeto con luces naranja caer en el mar. La RCMP y la Guardia Costera investigan. Se detectan objetos moviÃ©ndose bajo el agua durante dÃ­as. Nada es recuperado. CanadÃ¡ lo cataloga oficialmente como "caso no resuelto".',
-   witnesses:11,credibility:'MUY ALTA',country:'CanadÃ¡',
+   title:'Shag Harbour — USO en Canadá',
+   desc:'Once testigos ven objeto con luces naranja caer en el mar. La RCMP y la Guardia Costera investigan. Se detectan objetos moviéndose bajo el agua durante días. Nada es recuperado. Canadá lo cataloga oficialmente como "caso no resuelto".',
+   witnesses:11,credibility:'MUY ALTA',country:'Canadá',
    sources:['RCMP reports (desclasificados)','Transport Canada','DND Canada']},
 
   {id:'H08',lat:-0.6,lng:-49.5,type:'lights_sky',date:'1977-10-01',recent:false,
-   title:'OperaciÃ³n Prato â Colares, Brasil',
-   desc:'Luces atacan a residentes de la Isla Colares durante meses con rayos luminosos que causan quemaduras. Decenas son hospitalizados. El ejÃ©rcito brasileÃ±o realiza la OperaciÃ³n Prato. El capitÃ¡n UyrangÃª Hollanda lo confirma en entrevista antes de morir.',
+   title:'Operación Prato — Colares, Brasil',
+   desc:'Luces atacan a residentes de la Isla Colares durante meses con rayos luminosos que causan quemaduras. Decenas son hospitalizados. El ejército brasileño realiza la Operación Prato. El capitán Uyrangê Hollanda lo confirma en entrevista antes de morir.',
    witnesses:300,credibility:'ALTA',country:'Brasil',
-   sources:['OperaÃ§Ã£o Prato (docs militares)','CapitÃ¡n Hollanda testimony','CBPDV']},
+   sources:['Operação Prato (docs militares)','Capitán Hollanda testimony','CBPDV']},
 
   {id:'H09',lat:64.0,lng:-147.5,type:'ufo',date:'1986-11-17',recent:false,
-   title:'JAL 1628 â objeto del tamaÃ±o de portaaviones',
-   desc:'El CapitÃ¡n Terauchi de Japan Airlines reporta persecuciÃ³n por objeto masivo durante 50 minutos sobre Alaska. El radar del FAA confirma el contacto. El capitÃ¡n es reasignado de vuelo por hablar pÃºblicamente.',
+   title:'JAL 1628 — objeto del tamaño de portaaviones',
+   desc:'El Capitán Terauchi de Japan Airlines reporta persecución por objeto masivo durante 50 minutos sobre Alaska. El radar del FAA confirma el contacto. El capitán es reasignado de vuelo por hablar públicamente.',
    witnesses:3,credibility:'MUY ALTA',country:'EE.UU. (Alaska)',
    sources:['FAA radar records','Japan Airlines report','NICAP documentation']},
 
   {id:'H10',lat:32.0,lng:-118.5,type:'ufo',date:'2004-11-14',recent:false,
-   title:'USS Nimitz â encuentro con el "Tic-Tac"',
-   desc:'Pilotos de la US Navy graban objeto sin alas ni motor Visible que realiza maniobras imposibles. Confirmado oficialmente por el PentÃ¡gono en 2020. El piloto David Fravor declara ante el Congreso en 2023.',
-   witnesses:20,credibility:'OFICIAL CONFIRMADO',country:'EE.UU. (PacÃ­fico)',
+   title:'USS Nimitz — encuentro con el "Tic-Tac"',
+   desc:'Pilotos de la US Navy graban objeto sin alas ni motor Visible que realiza maniobras imposibles. Confirmado oficialmente por el Pentágono en 2020. El piloto David Fravor declara ante el Congreso en 2023.',
+   witnesses:20,credibility:'OFICIAL CONFIRMADO',country:'EE.UU. (Pacífico)',
    sources:['DoD release (2020)','NY Times (2017)','FLIR video (desclasificado)','Fravor testimony Congreso 2023']},
 
   {id:'H11',lat:18.2,lng:-66.6,type:'ufo',date:'2015-01-01',recent:false,
-   title:'GIMBAL / GOFAST â USS Roosevelt',
-   desc:'El portaaviones USS Theodore Roosevelt graba mÃºltiples UAPs con sistemas FLIR durante meses. El piloto Ryan Graves declara ante el Congreso que los veÃ­an "todos los dÃ­as". Videos desclasificados por el DoD en 2020.',
-   witnesses:50,credibility:'OFICIAL CONFIRMADO',country:'EE.UU. / AtlÃ¡ntico',
-   sources:['DoD release (2020)','Ryan Graves testimony (Congreso 2023)','AARO PentÃ¡gono']},
+   title:'GIMBAL / GOFAST — USS Roosevelt',
+   desc:'El portaaviones USS Theodore Roosevelt graba múltiples UAPs con sistemas FLIR durante meses. El piloto Ryan Graves declara ante el Congreso que los veían "todos los días". Videos desclasificados por el DoD en 2020.',
+   witnesses:50,credibility:'OFICIAL CONFIRMADO',country:'EE.UU. / Atlántico',
+   sources:['DoD release (2020)','Ryan Graves testimony (Congreso 2023)','AARO Pentágono']},
 
   {id:'H12',lat:-17.9,lng:30.9,type:'contact',date:'1994-09-16',recent:false,
-   title:'Ariel School â Zimbabwe',
-   desc:'62 niÃ±os de 6 a 12 aÃ±os describen aterrizaje de nave y contacto con seres durante el recreo escolar. El Dr. John Mack de Harvard los entrevista por separado. Sus testimonios son consistentes dÃ©cadas despuÃ©s.',
+   title:'Ariel School — Zimbabwe',
+   desc:'62 niños de 6 a 12 años describen aterrizaje de nave y contacto con seres durante el recreo escolar. El Dr. John Mack de Harvard los entrevista por separado. Sus testimonios son consistentes décadas después.',
    witnesses:62,credibility:'ALTA',country:'Zimbabwe',
-   sources:['Dr. John Mack (Harvard)','Cynthia Hind investigation','PelÃ­cula "Ariel Phenomenon" (2022)']},
+   sources:['Dr. John Mack (Harvard)','Cynthia Hind investigation','Película "Ariel Phenomenon" (2022)']},
 
   {id:'H13',lat:51.3,lng:-1.8,type:'crop',date:'1990-07-12',recent:false,
-   title:'Figuras de Wiltshire â Stonehenge area',
-   desc:'PatrÃ³n matemÃ¡tico complejo aparece en campo de trigo en una sola noche. El BLT Research encuentra anomalÃ­as en los tallos que no replican las marcas de falsificadores. Patrones de esta complejidad se documentan en la regiÃ³n desde los 1970s.',
+   title:'Figuras de Wiltshire — Stonehenge area',
+   desc:'Patrón matemático complejo aparece en campo de trigo en una sola noche. El BLT Research encuentra anomalías en los tallos que no replican las marcas de falsificadores. Patrones de esta complejidad se documentan en la región desde los 1970s.',
    witnesses:200,credibility:'MEDIA',country:'Reino Unido',
    sources:['BLT Research (Dr. Levengood)','CCCS','Wiltshire Gazette & Herald']},
 
   {id:'H14',lat:35.5,lng:52.0,type:'ufo',date:'1976-09-19',recent:false,
-   title:'TeherÃ¡n 1976 â cazas pierden control',
-   desc:'La Fuerza AÃ©rea Imperial iranÃ­ envÃ­a dos F-4 a interceptar un objeto brillante. Los sistemas de armas fallan al acercarse. El objeto lanza un sub-objeto. La DIA de EE.UU. documenta el evento en informe clasificado, luego desclasificado.',
-   witnesses:8,credibility:'MUY ALTA',country:'IrÃ¡n',
+   title:'Teherán 1976 — cazas pierden control',
+   desc:'La Fuerza Aérea Imperial iraní envía dos F-4 a interceptar un objeto brillante. Los sistemas de armas fallan al acercarse. El objeto lanza un sub-objeto. La DIA de EE.UU. documenta el evento en informe clasificado, luego desclasificado.',
+   witnesses:8,credibility:'MUY ALTA',country:'Irán',
    sources:['DIA report (desclasificado)','NICAP','General Azarbarzin testimony']},
 
   {id:'H15',lat:62.0,lng:-130.0,type:'ufo',date:'1996-12-11',recent:false,
-   title:'Yukon 1996 â nave de 1 milla',
-   desc:'MÃ¡s de 30 testigos en 11 ubicaciones separadas a lo largo de 800 km reportan la misma nave de aproximadamente 1 milla de largo moviÃ©ndose lentamente sobre el Yukon canadiense.',
-   witnesses:30,credibility:'ALTA',country:'CanadÃ¡',
+   title:'Yukon 1996 — nave de 1 milla',
+   desc:'Más de 30 testigos en 11 ubicaciones separadas a lo largo de 800 km reportan la misma nave de aproximadamente 1 milla de largo moviéndose lentamente sobre el Yukon canadiense.',
+   witnesses:30,credibility:'ALTA',country:'Canadá',
    sources:['UFO*BC investigation','Whitehorse Star','UFOROM']},
 
   {id:'H16',lat:-38.0,lng:145.0,type:'uso',date:'1978-10-21',recent:false,
-   title:'Frederick Valentich â desapariciÃ³n sobre Bass Strait',
-   desc:'Piloto de 20 aÃ±os reporta ser seguido por objeto metÃ¡lico con luces verdes. La transmisiÃ³n de radio se corta con un sonido metÃ¡lico. Ni Ã©l ni su Cessna 182 fueron encontrados jamÃ¡s. La grabaciÃ³n original existe.',
+   title:'Frederick Valentich — desaparición sobre Bass Strait',
+   desc:'Piloto de 20 años reporta ser seguido por objeto metálico con luces verdes. La transmisión de radio se corta con un sonido metálico. Ni él ni su Cessna 182 fueron encontrados jamás. La grabación original existe.',
    witnesses:1,credibility:'OFICIAL DOCUMENTADO',country:'Australia',
-   sources:['CASA Australia (transcripciÃ³n radio)','CSIRO','RAAF investigation']},
+   sources:['CASA Australia (transcripción radio)','CSIRO','RAAF investigation']},
 
   {id:'H17',lat:32.3,lng:-98.2,type:'ufo',date:'2008-01-08',recent:false,
-   title:'Stephenville, Texas â 200 testigos y F-16',
-   desc:'MÃ¡s de 200 residentes ven un objeto masivo y silencioso. F-16 del ejÃ©rcito lo persiguen. El ejÃ©rcito primero niega el vuelo de sus cazas, luego lo confirma pÃºblicamente. MUFON recibe 300+ reportes del Ã¡rea.',
+   title:'Stephenville, Texas — 200 testigos y F-16',
+   desc:'Más de 200 residentes ven un objeto masivo y silencioso. F-16 del ejército lo persiguen. El ejército primero niega el vuelo de sus cazas, luego lo confirma públicamente. MUFON recibe 300+ reportes del área.',
    witnesses:200,credibility:'ALTA',country:'EE.UU.',
    sources:['Dublin Citizen-Tribune','MUFON Report 2008','Air Force confirmation']},
 
   {id:'H18',lat:59.0,lng:11.0,type:'lights_sky',date:'1981-01-01',recent:false,
-   title:'Hessdalen â inicio del monitoreo cientÃ­fico',
-   desc:'Las luces no identificadas de Hessdalen se documentan sistemÃ¡ticamente desde los 1980s. El proyecto de investigaciÃ³n permanente tiene estaciÃ³n automÃ¡tica con cÃ¡maras, radar y sensores electromagnÃ©ticos. El fenÃ³meno continÃºa activo.',
+   title:'Hessdalen — inicio del monitoreo científico',
+   desc:'Las luces no identificadas de Hessdalen se documentan sistemáticamente desde los 1980s. El proyecto de investigación permanente tiene estación automática con cámaras, radar y sensores electromagnéticos. El fenómeno continúa activo.',
    witnesses:500,credibility:'MUY ALTA',country:'Noruega',
    sources:['Proyecto Hessdalen','SINTEF Norge','Journal of Scientific Exploration']},
 
   {id:'H19',lat:28.6,lng:77.2,type:'lights_sky',date:'2012-08-12',recent:false,
-   title:'Luces sobre Nueva Delhi â India',
+   title:'Luces sobre Nueva Delhi — India',
    desc:'Pilotos de IndiGo y Air India reportan luces brillantes no identificadas sobre la capital. El Ministerio de Defensa investiga pero no emite conclusiones. Caso documentado por la DGCA.',
    witnesses:15,credibility:'ALTA',country:'India',
    sources:['DGCA India (reporte)','Times of India','Hindustan Times']},
 
   {id:'H20',lat:-33.8688,lng:151.2093,type:'ufo',date:'2020-07-05',recent:false,
-   title:'UAP sobre Sydney â mÃºltiples testimonios',
-   desc:'Ocho pilotos de aerolÃ­neas comerciales y controladores de trÃ¡fico aÃ©reo reportan objeto no identificado sobre la costa. CASA Australia abre investigaciÃ³n sin conclusiones definitivas.',
+   title:'UAP sobre Sydney — múltiples testimonios',
+   desc:'Ocho pilotos de aerolíneas comerciales y controladores de tráfico aéreo reportan objeto no identificado sobre la costa. CASA Australia abre investigación sin conclusiones definitivas.',
    witnesses:20,credibility:'ALTA',country:'Australia',
    sources:['CASA Australia','Sydney Morning Herald','AURA (red australiana)']},
 
   {id:'H21',lat:-22.9068,lng:-43.1729,type:'ufo',date:'1986-05-19',recent:false,
-   title:'ApagÃ³n de SÃ£o Paulo â 21 UAPs',
-   desc:'La Fuerza AÃ©rea BrasileÃ±a publica informe interno reconociendo la persecuciÃ³n de 21 objetos no identificados durante un apagÃ³n de varios estados. Caso reconocido oficialmente en 2010.',
+   title:'Apagón de São Paulo — 21 UAPs',
+   desc:'La Fuerza Aérea Brasileña publica informe interno reconociendo la persecución de 21 objetos no identificados durante un apagón de varios estados. Caso reconocido oficialmente en 2010.',
    witnesses:5000,credibility:'OFICIAL CONFIRMADO',country:'Brasil',
-   sources:['FAb (informe desclasificado 2010)','Folha de SÃ£o Paulo','CBPDV']}
+   sources:['FAb (informe desclasificado 2010)','Folha de São Paulo','CBPDV']}
 ];
 
-// âââââââââââââââââââââââââââââââââââââ
+// ═════════════════════════════════════
 //  MAPA
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 // Estado global
 let map, markers = [], mode = 'recent';
 let activeTypes = new Set(Object.keys(T));
@@ -473,9 +473,9 @@ function initMap() {
   }).addTo(map);
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 //  MARCADORES
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 function mkIcon(type, isNew) {
   const t = T[type]||T.other;
   const sz = isNew ? 26 : 22;
@@ -491,9 +491,9 @@ function mkPopup(ev) {
   const newTag = ev.isNew ? '<span class="new-tag">NUEVO</span> ' : '';
   return `<div class="p-type" style="color:${t.c};border-color:${t.c}">${t.e} ${t.l}</div>
 <div class="p-title">${newTag}${ev.title}</div>
-<div class="p-date">ð ${ev.date} &nbsp;Â·&nbsp; ð ${ev.country||'â'}</div>
+<div class="p-date">📅 ${ev.date} &nbsp;·&nbsp; 📑 ${ev.country||'—'}</div>
 <div class="p-desc">${ev.desc}</div>
-<div class="p-wit">ð¥ Testigos: <b>${wStr}</b> &nbsp;Â·&nbsp; <b>${ev.credibility||'â'}</b></div>`;
+<div class="p-wit">👥 Testigos: <b>${wStr}</b> &nbsp;·&nbsp; <b>${ev.credibility||'—'}</b></div>`;
 }
 
 function renderMarkers() {
@@ -514,9 +514,9 @@ function renderMarkers() {
   updateHeader(visible);
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 //  PANEL DE EVENTO SELECCIONADO
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 function showPanel(ev) {
   const t = T[ev.type]||T.other;
   const wStr = ev.witnesses>=1000 ? `${(ev.witnesses/1000).toFixed(0)}k+` : ev.witnesses;
@@ -527,12 +527,12 @@ function showPanel(ev) {
   document.getElementById('ep-inner').innerHTML=`
     <div class="ep-badge" style="color:${t.c};border-color:${t.c};background:${t.c}18">${t.e} ${t.l}</div>
     <div class="ep-title">${newTag}${ev.title}</div>
-    <div class="ep-date">ð ${ev.date} Â· ð ${ev.country||'â'}</div>
+    <div class="ep-date">📅 ${ev.date} · 📍 ${ev.country||'—'}</div>
     <div class="ep-desc">${ev.desc}</div>
     <div class="ep-meta">
       <div class="ep-mr"><span class="ep-mk">Testigos:</span><span class="ep-mv">${wStr}</span></div>
-      <div class="ep-mr"><span class="ep-mk">Credibilidad:</span><span class="ep-mv" style="color:${credColor}">${ev.credibility||'â'}</span></div>
-      <div class="ep-mr"><span class="ep-mk">PerÃ­odo:</span><span class="ep-mv">${ev.recent?'ð¡ Ãltimos 7 dÃ­as':'ð HistÃ³rico'}</span></div>
+      <div class="ep-mr"><span class="ep-mk">Credibilidad:</span><span class="ep-mv" style="color:${credColor}">${ev.credibility||'—'}</span></div>
+      <div class="ep-mr"><span class="ep-mk">Período:</span><span class="ep-mv">${ev.recent?'📡 Últimos 7 días':'📁 Histórico'}</span></div>
     </div>
     <div class="ep-srcs"><div style="margin-bottom:4px;font-size:8px;color:var(--text-dim);letter-spacing:1px">FUENTES:</div>${tags}</div>`;
   const ep = document.getElementById('ep');
@@ -540,9 +540,9 @@ function showPanel(ev) {
   document.getElementById('sb').scrollTop=9999;
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-//  ESTADÃSTICAS
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
+//  ESTADÍSTICAS
+// ══════════════════════════════════════════════════════════════
 function updateStats(visible) {
   const counts = {};
   Object.keys(T).forEach(k=>{counts[k]=0});
@@ -572,16 +572,16 @@ function updateHeader(visible) {
   document.getElementById('ft-upd').textContent = `ACT: ${new Date().toLocaleTimeString('es-MX')}`;
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 //  FILTROS
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 function buildFilters() {
   document.getElementById('flist').innerHTML = Object.entries(T).map(([k,t])=>`
     <div class="fi" data-type="${k}">
       <div class="f-chk" style="color:${t.c}"></div>
       <div class="f-dot" style="background:${t.c};box-shadow:0 0 4px ${t.c}"></div>
       <div class="f-lbl">${t.e} ${t.l}</div>
-      <div class="f-cnt">â</div>
+      <div class="f-cnt">—</div>
     </div>`).join('');
 
   document.querySelectorAll('.fi').forEach(el=>{
@@ -605,9 +605,9 @@ function buildFilters() {
   });
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 //  TOGGLE MODO
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 function buildModeToggle() {
   document.querySelectorAll('.m-btn').forEach(btn=>{
     btn.addEventListener('click',()=>{
@@ -620,9 +620,9 @@ function buildModeToggle() {
   });
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-//  CARGA DE DATOS EN PRODUCCIÃN (desde GeoJSON de GitHub Actions)
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
+//  CARGA DE DATOS EN PRODUCCIÓN (desde GeoJSON de GitHub Actions)
+// ══════════════════════════════════════════════════════════════
 function parseGeoJSON(gj) {
   return (gj.features||[]).map(f=>{
     const p=f.properties||{};
@@ -631,14 +631,14 @@ function parseGeoJSON(gj) {
       id:p.id||Math.random().toString(36).slice(2),
       lat,lng,
       type:p.type||'other',
-      date:p.date||'â',
+      date:p.date||'—',
       recent:p.recent===true||p.recent==='true',
       isNew:p.isNew===true||p.isNew==='true',
-      title:p.title||'Sin tÃ­tulo',
-      desc:p.description||p.desc||'â',
+      title:p.title||'Sin título',
+      desc:p.description||p.desc||'—',
       witnesses:parseInt(p.witnesses)||0,
       credibility:p.credibility||'MEDIA',
-      country:p.country||'â',
+      country:p.country||'—',
       sources:(p.sources||'').split('|').filter(Boolean)
     };
   });
@@ -661,9 +661,9 @@ async function loadLiveData() {
   renderMarkers();
 }
 
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 //  INIT
-// ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// ══════════════════════════════════════════════════════════════
 document.addEventListener('DOMContentLoaded',()=>{
   initMap();
   buildFilters();
