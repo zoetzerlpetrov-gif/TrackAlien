@@ -12,7 +12,7 @@
   --text:#b8b8d0;--text-dim:#505070;--text-bright:#e0e0ff;
   --cyan:#00e5ff;--purple:#aa00ff;--amber:#ffaa00;--red:#ff3355;--green:#00ff88;
   --h:52px;--sw:288px;--fh:28px;
-  font-family:'Courier New',monospace;font-size:13px;
+  font-family:'Courier New',monospace,'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji';font-size:13px;
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display:flex;flex-direction:column}
@@ -455,6 +455,11 @@ const SAMPLE = [
 // âââââââââââââââââââââââââââââââââââââ
 //  MAPA
 // ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+// Estado global
+let map, markers = [], mode = 'recent';
+let activeTypes = new Set(Object.keys(T));
+let EVENTS = SAMPLE;
+
 function initMap() {
   map = L.map('map', {center:[20,0], zoom:2, minZoom:2, maxZoom:13, zoomControl:true});
   // Esri World Dark Gray Base (sin API key, igual que WarRoomViajero)
