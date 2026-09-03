@@ -465,9 +465,14 @@ let EVENTS = SAMPLE;
 // ══════════════════════════════════════════════════════════════
 function initMap() {
   map = L.map('map', {center:[20,0], zoom:2, minZoom:2, maxZoom:13, zoomControl:true});
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{
-    attribution:'&copy; <a href="https://carto.com">CartoDB</a>',
-    subdomains:'abcd', maxZoom:19
+  // Esri World Dark Gray Base (sin API key, igual que WarRoomViajero)
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}',{
+    attribution:'&copy; <a href="https://www.esri.com">Esri</a>',
+    maxZoom:16
+  }).addTo(map);
+  // Capa de etiquetas/referencia encima
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}',{
+    attribution:'', maxZoom:16, pane:'shadowPane'
   }).addTo(map);
 }
 
