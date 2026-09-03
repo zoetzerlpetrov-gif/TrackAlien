@@ -137,6 +137,9 @@ body{background:var(--bg);color:var(--text);height:100vh;overflow:hidden;display
 body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.025) 2px,rgba(0,0,0,.025) 4px);pointer-events:none;z-index:9999}
 
 @media(max-width:700px){#sb,#hdr .h-stats{display:none}}
+
+/* zoom control → bottom center */
+.leaflet-top.leaflet-left{top:auto;left:50%;bottom:20px;transform:translateX(-50%)}
 </style>
 </head>
 <body>
