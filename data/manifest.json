@@ -1,11 +1,18 @@
 {
-  "updated_at": "2026-09-03T03:32:43Z",
-  "recent_count": 256,
-  "historical_count": 473,
+  "updated_at": "2026-09-03T15:43:22Z",
+  "recent_count": 164,
+  "historical_count": 572,
   "sources_used": [
-    "GDELT",
-    "Google News RSS",
-    "Reddit r/UFOs",
-    "NUFORC CSV"
-  ]
+    "GDELT v2 DOC API (5 consultas)",
+    "Google News RSS (21 términos — ES/EN/PT)",
+    "Reddit r/UFOs, r/aliens, r/ufo, r/paranormal, r/mexico",
+    "Latest UFO Sightings RSS",
+    "The Black Vault RSS",
+    "Open Minds UFO News RSS",
+    "Inexplicata (es) RSS",
+    "Planeta UFO (es) RSS",
+    "Espacio Misterio (es) RSS",
+    "NUFORC CSV histórico (600 registros)"
+  ],
+  "filter": "eventos_recientes: ≥2 dominios distintos (NUFORC exento)"
 }
