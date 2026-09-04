@@ -138,8 +138,12 @@ body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradie
 
 @media(max-width:700px){#sb,#hdr .h-stats{display:none}}
 
-/* zoom control → bottom center */
+/* zoom control → horizontal bar, bottom center (− izq, + der) */
 .leaflet-top.leaflet-left{top:auto;left:50%;bottom:20px;transform:translateX(-50%)}
+.leaflet-control-zoom{display:flex!important;flex-direction:row-reverse}
+.leaflet-control-zoom a{border-bottom:none!important;width:30px!important}
+.leaflet-control-zoom a:first-child{border-radius:0 4px 4px 0!important;border-left:1px solid rgba(0,0,0,.3)!important}
+.leaflet-control-zoom a:last-child{border-radius:4px 0 0 4px!important;border-left:none!important}
 </style>
 </head>
 <body>
