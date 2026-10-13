@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.02754451634226,
-          35.41793205092422
+          -100.432378397125,
+          40.46868572173757
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.38053570848528,
-          37.181800246555014
+          -94.80777579186221,
+          38.8190939992887
         ]
       },
       "properties": {
@@ -54,8 +54,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.20190812667417,
-          35.46627398211925
+          -98.6719679516251,
+          42.553893255221176
         ]
       },
       "properties": {
@@ -78,22 +78,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.53028613074179,
-          34.09269012703094
+          -97.95227115280828,
+          38.0136589868876
         ]
       },
       "properties": {
-        "id": "G88F3CEF3",
-        "type": "lights_sky",
-        "date": "2026-10-06",
+        "id": "GC41030F1",
+        "type": "ufo",
+        "date": "2026-10-09",
         "recent": true,
         "isNew": false,
-        "title": "Why the Phoenix Lights are Arizona's most captivating UFO sighting - azcentral.com and The Arizona Republic",
-        "description": "Google News. Búsqueda: 'ufo sighting'. Fuente: azcentral.com and The Arizona Republic.",
+        "title": "NASA chief Jared Isaacman says we should stay 'open-minded' about UFOs - USA Today",
+        "description": "Google News. Búsqueda: 'ufo sighting'. Fuente: USA Today.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "azcentral.com and The Arizona Republic|https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGo1cURvZ0FQblVhUVRpaTZBRG5",
+        "sources": "USA Today|https://news.google.com/rss/articles/CBMirwFBVV95cUxNS2I1MVVXczV3YXcxOFJaNVFJMEl",
         "source_count": 2
       }
     },
@@ -102,8 +102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.1255269079413,
-          35.5431897169149
+          -94.81664468788158,
+          38.0953613311573
         ]
       },
       "properties": {
@@ -126,8 +126,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.35501106687184,
-          35.217965758753714
+          -111.4094593640238,
+          34.253456116212995
+        ]
+      },
+      "properties": {
+        "id": "G88F3CEF3",
+        "type": "lights_sky",
+        "date": "2026-10-06",
+        "recent": true,
+        "isNew": false,
+        "title": "Why the Phoenix Lights are Arizona's most captivating UFO sighting - azcentral.com and The Arizona Republic",
+        "description": "Google News. Búsqueda: 'ufo sighting'. Fuente: azcentral.com and The Arizona Republic.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "azcentral.com and The Arizona Republic|https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGo1cURvZ0FQblVhUVRpaTZBRG5",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.57136165403699,
+          34.496556523787355
         ]
       },
       "properties": {
@@ -150,8 +174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.1299020684368,
-          27.813164608190352
+          -80.76850795904308,
+          27.96679007271657
         ]
       },
       "properties": {
@@ -174,8 +198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.23865477818359,
-          39.24275934179197
+          -101.60684363391056,
+          36.211672333383504
         ]
       },
       "properties": {
@@ -198,8 +222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.94649177473951,
-          43.05730689988948
+          -99.55908673629527,
+          35.16927507477381
         ]
       },
       "properties": {
@@ -222,8 +246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.88725270185515,
-          36.066213553710654
+          -99.45898331181577,
+          41.31494915816706
         ]
       },
       "properties": {
@@ -246,12 +270,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.29374551718499,
-          42.04479825798471
+          -100.19777646016111,
+          43.7407107445718
         ]
       },
       "properties": {
-        "id": "G639268FD",
+        "id": "G139B2328",
         "type": "ufo",
         "date": "2026-09-21",
         "recent": true,
@@ -261,31 +285,7 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanZmTVFvV3YtcDRGWGszNmpWNk5|https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNVJlY3IwOTFWLXNtZ2tjRjd1Wk5|NDTV|The Fayette County Record",
-        "source_count": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.16840834911274,
-          38.452808283394944
-        ]
-      },
-      "properties": {
-        "id": "GE492383D",
-        "type": "ufo",
-        "date": "2026-09-18",
-        "recent": true,
-        "isNew": false,
-        "title": "Pentagon releases more UFO files, including documents on secretive military program - CBS News",
-        "description": "Google News. Búsqueda: 'ufo sighting'. Fuente: CBS News.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "CBS News|https://news.google.com/rss/articles/CBMickFVX3lxTE5GenVudndBakoyT05oTDltSnppZTl",
+        "sources": "NDTV|https://news.google.com/rss/articles/CBMirgFBVV95cUxQanZmTVFvV3YtcDRGWGszNmpWNk5",
         "source_count": 2
       }
     },
@@ -294,8 +294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.01359056811802,
-          40.6066345209162
+          -95.80515941832525,
+          35.24808594811335
         ]
       },
       "properties": {
@@ -318,8 +318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.9497556229116,
-          37.049445308294366
+          -94.67131609968459,
+          36.29527699243269
         ]
       },
       "properties": {
@@ -342,8 +342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.80440458355307,
-          40.75268859522541
+          -94.23607556088115,
+          34.53759476410846
         ]
       },
       "properties": {
@@ -366,8 +366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.26080417714164,
-          39.03413753437791
+          -96.03026275155429,
+          38.39752138755533
         ]
       },
       "properties": {
@@ -390,8 +390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.47431985224392,
-          40.33065056880412
+          -99.30627795543327,
+          35.37945873851941
         ]
       },
       "properties": {
@@ -414,8 +414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.83942546840876,
-          42.7540519606473
+          -94.53781220779959,
+          40.86211472968413
         ]
       },
       "properties": {
@@ -438,8 +438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.89529204240897,
-          42.55035811939994
+          -99.67375771112121,
+          38.57442278128535
         ]
       },
       "properties": {
@@ -462,8 +462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1039038962984,
-          40.48176177560223
+          -95.74567207803044,
+          41.40880011871859
         ]
       },
       "properties": {
@@ -486,8 +486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.73493960948076,
-          39.65402525111193
+          -97.84977677769366,
+          40.64680508075776
         ]
       },
       "properties": {
@@ -510,8 +510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.87627355141811,
-          39.010804577640776
+          -96.67814227240532,
+          34.44254496346442
         ]
       },
       "properties": {
@@ -534,8 +534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.92205934571902,
-          34.39100847631914
+          -101.64472928125133,
+          38.74632228423461
         ]
       },
       "properties": {
@@ -558,8 +558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.39041384519078,
-          42.44027523509373
+          -99.85466498466478,
+          34.933366575777974
         ]
       },
       "properties": {
@@ -582,22 +582,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.02783320034128,
-          39.237928488685355
+          77.96291494284797,
+          19.39812832053576
         ]
       },
       "properties": {
-        "id": "GF60B383A",
-        "type": "contact",
-        "date": "2026-10-07",
+        "id": "G17AB3F2A",
+        "type": "lights_sky",
+        "date": "2026-10-13",
         "recent": true,
-        "isNew": false,
-        "title": "Aliens or AC/DC? Strange lights seen from Staten Island send TikTok into a frenzy - SILive.com",
-        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: SILive.com.",
+        "isNew": true,
+        "title": "What caused the lights in the sky over Indiana Tuesday morning? - WTHR",
+        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: WTHR.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "SILive.com|https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWRiMkJfdXE1TF9lSUtxQUcyaXR",
+        "sources": "WTHR|https://news.google.com/rss/articles/CBMitgJBVV95cUxPclFHdFhVdGhBU0NxRDZQV21jVEp",
         "source_count": 2
       }
     },
@@ -606,8 +606,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.41849376858407,
-          41.85746113841043
+          -96.97250714213884,
+          42.52586762653378
+        ]
+      },
+      "properties": {
+        "id": "G2293F920",
+        "type": "lights_sky",
+        "date": "2026-10-13",
+        "recent": true,
+        "isNew": true,
+        "title": "What was that strange light in Virginia’s sky? - WRIC ABC 8News",
+        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: WRIC ABC 8News.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "WRIC ABC 8News|https://news.google.com/rss/articles/CBMid0FVX3lxTFB1bE1zRHYwVElMSGZ1T1F1bUFLenJ",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.36009540586035,
+          41.47500684333958
         ]
       },
       "properties": {
@@ -630,8 +654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.45410286723394,
-          37.61883664079254
+          -100.450875514497,
+          42.828041375773616
         ]
       },
       "properties": {
@@ -654,8 +678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.37354549264423,
-          43.47734473528428
+          -94.31775023580924,
+          34.323522235926816
         ]
       },
       "properties": {
@@ -678,8 +702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.51836544827808,
-          38.05422285813335
+          -98.84044540937931,
+          39.91932313700624
         ]
       },
       "properties": {
@@ -702,8 +726,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.99970361399029,
-          36.27018910057069
+          -102.86224610493866,
+          40.55424284626383
+        ]
+      },
+      "properties": {
+        "id": "G2114EA44",
+        "type": "lights_sky",
+        "date": "2026-09-03",
+        "recent": true,
+        "isNew": false,
+        "title": "What Are Those Lights in the Sky? - The Fayette County Record",
+        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: The Fayette County Record.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "The Fayette County Record|https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNVJlY3IwOTFWLXNtZ2tjRjd1Wk5",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.07402011094103,
+          35.26718558708124
         ]
       },
       "properties": {
@@ -726,56 +774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.37268224782107,
-          42.24499711553413
-        ]
-      },
-      "properties": {
-        "id": "G71A818C5",
-        "type": "lights_sky",
-        "date": "2026-09-25",
-        "recent": true,
-        "isNew": false,
-        "title": "Mystery Orbs Are Back Over Cody, And UFO Expert Can't Explain Them - Cowboy State Daily",
-        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: Cowboy State Daily.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "Cowboy State Daily|https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUU2M2lndWRyWFRTYVdxTFd6SVJ",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.28298847538846,
-          42.68508758292736
-        ]
-      },
-      "properties": {
-        "id": "G443F0C3E",
-        "type": "uso",
-        "date": "2026-04-27",
-        "recent": true,
-        "isNew": false,
-        "title": "Mysterious green lights in Kona sky leave astronomers searching for answers - KHON2",
-        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: KHON2.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "KHON2|https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM2NEODNwT2UyRVdqeGtDdlc2Mmx",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.77896286055345,
-          38.77535346605608
+          -100.35961510245292,
+          41.77718100520922
         ]
       },
       "properties": {
@@ -798,22 +798,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.76169588618694,
-          35.56332682694905
+          -97.6633022684326,
+          39.12131334452367
         ]
       },
       "properties": {
-        "id": "G4850EA63",
-        "type": "lights_sky",
-        "date": "2026-09-23",
+        "id": "G443F0C3E",
+        "type": "uso",
+        "date": "2026-04-27",
         "recent": true,
         "isNew": false,
-        "title": "Strange lights over Tehran sky spark conspiracy theories - The New Arab",
-        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: The New Arab.",
+        "title": "Mysterious green lights in Kona sky leave astronomers searching for answers - KHON2",
+        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: KHON2.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "The New Arab|https://news.google.com/rss/articles/CBMimAFBVV95cUxQQW9HQWlBaDFBWmh3T2FmNEh1ZU5",
+        "sources": "KHON2|https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM2NEODNwT2UyRVdqeGtDdlc2Mmx",
         "source_count": 2
       }
     },
@@ -822,22 +822,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.60793747922476,
-          41.16914823839099
+          -93.11644334304154,
+          43.877257534469926
         ]
       },
       "properties": {
-        "id": "G13EE5BE3",
+        "id": "G71A818C5",
         "type": "lights_sky",
-        "date": "2026-04-17",
+        "date": "2026-09-25",
         "recent": true,
         "isNew": false,
-        "title": "Did you spot mysterious lights in the sky this morning? Here’s what caused them - WHIO TV",
+        "title": "Mystery Orbs Are Back Over Cody, And UFO Expert Can't Explain Them - Cowboy State Daily",
+        "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: Cowboy State Daily.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "Cowboy State Daily|https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUU2M2lndWRyWFRTYVdxTFd6SVJ",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.78944904967615,
+          36.74511675574751
+        ]
+      },
+      "properties": {
+        "id": "G2C28BE17",
+        "type": "lights_sky",
+        "date": "2026-05-02",
+        "recent": true,
+        "isNew": false,
+        "title": "Did you spot mysterious lights in the sky tonight? Here’s what caused them - WHIO TV",
         "description": "Google News. Búsqueda: 'strange lights sky'. Fuente: WHIO TV.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "WHIO TV|https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUJONEZRZkhOay1sWmROSkI5c3J",
+        "sources": "WHIO TV|https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUVPbGhBd2hfN24yZlNxeGdBaWh",
         "source_count": 2
       }
     },
@@ -846,8 +870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.03823171549904,
-          38.03307051672935
+          -99.1335236231523,
+          37.94939898099294
         ]
       },
       "properties": {
@@ -870,8 +894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.01754887050593,
-          35.199682184115545
+          -94.74469092435601,
+          34.01613546202703
         ]
       },
       "properties": {
@@ -894,8 +918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.55964150469684,
-          40.42720905224887
+          -101.15147460141972,
+          42.29644599895435
         ]
       },
       "properties": {
@@ -918,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.04658728985473,
-          35.34299322733945
+          -97.42835883653215,
+          38.35957133346718
         ]
       },
       "properties": {
@@ -942,8 +966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.76613251014966,
-          41.166935879408896
+          -98.477909931112,
+          40.11544726530599
         ]
       },
       "properties": {
@@ -966,8 +990,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.12813474533861,
-          41.47045544759216
+          -95.60530052203293,
+          35.477051469346996
         ]
       },
       "properties": {
@@ -990,8 +1014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.649998790418,
-          37.68708641100246
+          -100.18541623521966,
+          35.7116955052481
         ]
       },
       "properties": {
@@ -1014,8 +1038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.38383376286114,
-          36.181961796037676
+          -93.02771944693515,
+          34.20320561470332
         ]
       },
       "properties": {
@@ -1038,8 +1062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.69625836069028,
-          36.687071655081326
+          -94.95630828046158,
+          36.20517374697194
         ]
       },
       "properties": {
@@ -1062,8 +1086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.97660798597494,
-          34.606408588918946
+          -96.51581508617002,
+          43.9229663125819
         ]
       },
       "properties": {
@@ -1086,8 +1110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.99375119790037,
-          38.19796014798295
+          -97.88510845850989,
+          35.51562643837703
         ]
       },
       "properties": {
@@ -1110,8 +1134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.43155562120882,
-          25.83324069501988
+          -85.90946954911936,
+          28.583775494876612
         ]
       },
       "properties": {
@@ -1134,8 +1158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.53015370619096,
-          40.190783146102376
+          -74.44897290548938,
+          40.910263834214284
         ]
       },
       "properties": {
@@ -1158,8 +1182,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.62456396377021,
-          25.272203980001642
+          -86.72909848339776,
+          23.24878638111896
         ]
       },
       "properties": {
@@ -1182,8 +1206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.9451259640148,
-          41.38612396603292
+          -74.1320823411757,
+          40.73152503840995
         ]
       },
       "properties": {
@@ -1206,8 +1230,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.97522494191897,
-          36.397120100477146
+          125.84159496003313,
+          36.14858984555806
         ]
       },
       "properties": {
@@ -1230,8 +1254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.41271147085835,
-          39.04988991144338
+          -98.88740823826544,
+          37.72309402115192
         ]
       },
       "properties": {
@@ -1254,8 +1278,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0077631195826,
-          29.109322219588613
+          -90.30954468335715,
+          24.977563570447003
         ]
       },
       "properties": {
@@ -1278,8 +1302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.93361865578682,
-          22.69778212149687
+          -93.14803126787653,
+          23.88354797230409
         ]
       },
       "properties": {
@@ -1302,8 +1326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.80640028202615,
-          22.850937067743263
+          -91.53981149222403,
+          26.598819833560672
         ]
       },
       "properties": {
@@ -1326,8 +1350,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.06300755009643,
-          39.72183600150278
+          -97.7538491193599,
+          39.153067055557266
         ]
       },
       "properties": {
@@ -1350,8 +1374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.6787590650848,
-          27.067275874656175
+          -92.32008244813841,
+          24.67110870316497
         ]
       },
       "properties": {
@@ -1374,8 +1398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.6706658128328,
-          22.72277670157032
+          -92.10701909827671,
+          27.59794103506784
         ]
       },
       "properties": {
@@ -1398,8 +1422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.20808824834656,
-          24.358868472204847
+          -89.38566117545246,
+          29.793526806997836
         ]
       },
       "properties": {
@@ -1422,8 +1446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.5364855539136,
-          39.385931977005356
+          -99.19008080793355,
+          38.43083558768672
         ]
       },
       "properties": {
@@ -1446,8 +1470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.98982879890393,
-          21.113617856298994
+          -91.02349426482887,
+          24.244856155740116
         ]
       },
       "properties": {
@@ -1470,8 +1494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.3367832972315,
-          39.114514416112776
+          -96.96240703340618,
+          37.27495121464008
         ]
       },
       "properties": {
@@ -1494,8 +1518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.72724695228602,
-          28.561263118550606
+          -91.04320670096374,
+          21.76748994468015
         ]
       },
       "properties": {
@@ -1518,32 +1542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.37168624487883,
-          27.37395974472186
-        ]
-      },
-      "properties": {
-        "id": "G059C0CA2",
-        "type": "uso",
-        "date": "2024-03-20",
-        "recent": true,
-        "isNew": false,
-        "title": "Ex-US Navy officer warns of ‘unidentified underwater objects’ lurking in ocean - supercarblondie.com",
-        "description": "Google News. Búsqueda: 'underwater ufo lights ocean'. Fuente: supercarblondie.com.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "supercarblondie.com|https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVFNaFZmN29hSVQ0Wm1KbVRXVTF",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.9372737314563,
-          23.11167460177665
+          -87.91204232312806,
+          25.41205510292963
         ]
       },
       "properties": {
@@ -1566,22 +1566,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.01955474825094,
-          22.277140634205626
+          -88.9195663635986,
+          29.142188369626815
         ]
       },
       "properties": {
-        "id": "G14B76EA4",
+        "id": "G059C0CA2",
         "type": "uso",
-        "date": "2025-09-22",
+        "date": "2024-03-20",
         "recent": true,
         "isNew": false,
-        "title": "Every Conspiracy About Underwater UFOs Explained - Grunge",
-        "description": "Google News. Búsqueda: 'underwater ufo lights ocean'. Fuente: Grunge.",
+        "title": "Ex-US Navy officer warns of ‘unidentified underwater objects’ lurking in ocean - supercarblondie.com",
+        "description": "Google News. Búsqueda: 'underwater ufo lights ocean'. Fuente: supercarblondie.com.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "US",
-        "sources": "Grunge|https://news.google.com/rss/articles/CBMidEFVX3lxTE11SE9Ra0Z2a1A1blEzVTJlVlJjUUZ",
+        "sources": "supercarblondie.com|https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVFNaFZmN29hSVQ0Wm1KbVRXVTF",
         "source_count": 2
       }
     },
@@ -1590,8 +1590,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.32911436640063,
-          18.65834695355571
+          -94.96612410994003,
+          23.190366937257732
+        ]
+      },
+      "properties": {
+        "id": "GF4E1D692",
+        "type": "uso",
+        "date": "2023-06-27",
+        "recent": true,
+        "isNew": false,
+        "title": "The underwater search for an alien meteor - BBC",
+        "description": "Google News. Búsqueda: 'underwater ufo lights ocean'. Fuente: BBC.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "BBC|https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjF5NDFZc3RZb0FpOGYyYWM5TDF",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.93040299572563,
+          19.81995643499754
         ]
       },
       "properties": {
@@ -1614,8 +1638,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.44484251855644,
-          25.11687527086098
+          -104.452552194481,
+          21.9332917109852
         ]
       },
       "properties": {
@@ -1638,8 +1662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.43044596957901,
-          18.794945099748766
+          -100.02614362542243,
+          19.722574895234818
         ]
       },
       "properties": {
@@ -1653,8 +1677,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "Instagram|https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTlFRVTBpWVB5cURRRmdFUWpOQ1N|https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnowZ3JuODdseUJVSWpqUE0ycUY|El Imparcial",
-        "source_count": 4
+        "sources": "El Imparcial|https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnowZ3JuODdseUJVSWpqUE0ycUY",
+        "source_count": 2
       }
     },
     {
@@ -1662,8 +1686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.44454777141023,
-          24.28329634421014
+          -101.4634926510902,
+          23.592948384708198
         ]
       },
       "properties": {
@@ -1686,8 +1710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.90387776601122,
-          22.639349871226294
+          -104.31957085032445,
+          24.12036820895914
         ]
       },
       "properties": {
@@ -1710,8 +1734,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.82240817961414,
-          23.386506789053815
+          -98.0840690858057,
+          23.579329078029005
         ]
       },
       "properties": {
@@ -1734,8 +1758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.68102292104118,
-          22.670312386788915
+          -102.73791416193893,
+          22.89459524835422
         ]
       },
       "properties": {
@@ -1758,8 +1782,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.60044511766728,
-          22.56202853829273
+          -101.0792176957169,
+          24.228395550421784
         ]
       },
       "properties": {
@@ -1782,8 +1806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.89241420046928,
-          23.565581949165427
+          -103.21755640374586,
+          24.312411622869778
         ]
       },
       "properties": {
@@ -1806,8 +1830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.8227670487854,
-          22.550663845611663
+          -103.36373169310437,
+          24.487019665607235
         ]
       },
       "properties": {
@@ -1830,8 +1854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.71681721028851,
-          37.74832727881076
+          -96.20652582616087,
+          38.33679322995001
         ]
       },
       "properties": {
@@ -1854,8 +1878,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.78407765643308,
-          25.134943133898126
+          -99.26544193987469,
+          20.208745093237383
+        ]
+      },
+      "properties": {
+        "id": "GEBF0EA63",
+        "type": "lights_sky",
+        "date": "2026-06-22",
+        "recent": true,
+        "isNew": false,
+        "title": "#Video I ¿Qué era esa misteriosa luz en el cielo de la CDMX? 🌌✨ ⁣ ⁣ Una extraña luminosidad sorprendió a habitantes durante los festejos en la capital, generando todo tipo de teorías en redes sociales: desde OVNIs hasta fenómenos naturales 👀⁣ ⁣ #Azte - Instagram",
+        "description": "Google News. Búsqueda: 'avistamiento ovni México'. Fuente: Instagram.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "Instagram|https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTlFRVTBpWVB5cURRRmdFUWpOQ1N",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9421843879117,
+          22.42113786434301
         ]
       },
       "properties": {
@@ -1878,8 +1926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.4612329802284,
-          20.23285541822162
+          -98.30472698139745,
+          19.53673455396772
         ]
       },
       "properties": {
@@ -1902,8 +1950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.89434980466643,
-          26.154357931461952
+          -99.32738806259752,
+          26.06201492889687
         ]
       },
       "properties": {
@@ -1917,8 +1965,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVB2N0hwaTN3UmRoNm1zM1Btc1N|Sociedad Noticias|https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGtXVUUwVEttUG5ZaGItNlJVNDc|ABC Noticias|INFO7|https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE4yM1ZjX3hHVVlFbWYxUXJXVEx",
-        "source_count": 6
+        "sources": "ABC Noticias|https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVB2N0hwaTN3UmRoNm1zM1Btc1N",
+        "source_count": 2
       }
     },
     {
@@ -1926,8 +1974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.75489938384469,
-          28.07076036855849
+          -102.27925239346348,
+          25.951334378635455
         ]
       },
       "properties": {
@@ -1950,8 +1998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.65780604248695,
-          18.51306601636787
+          -98.88677710468008,
+          19.696007792814
         ]
       },
       "properties": {
@@ -1974,8 +2022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.30185500195333,
-          19.865601177885907
+          -99.43727961703937,
+          19.17713733493564
         ]
       },
       "properties": {
@@ -1998,8 +2046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.40048239838,
-          27.31540681519155
+          -105.47374989984532,
+          23.753791754589855
         ]
       },
       "properties": {
@@ -2022,8 +2070,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.8144004597486,
-          18.70358378020099
+          -105.04459313521201,
+          26.498230257373685
         ]
       },
       "properties": {
@@ -2046,8 +2094,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.00447310546816,
-          22.583803974856412
+          -106.41228254870465,
+          27.09231804209669
+        ]
+      },
+      "properties": {
+        "id": "GC85F331A",
+        "type": "lights_sky",
+        "date": "2026-09-11",
+        "recent": true,
+        "isNew": false,
+        "title": "Reportan luz extraña en el cielo de Polanco; usuarios especulan sobre su origen - Sociedad Noticias",
+        "description": "Google News. Búsqueda: 'luces extrañas cielo México'. Fuente: Sociedad Noticias.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "Sociedad Noticias|https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE4yM1ZjX3hHVVlFbWYxUXJXVEx",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.54133457127851,
+          18.656867736483647
         ]
       },
       "properties": {
@@ -2070,22 +2142,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.08917018873447,
-          23.41461707722074
+          -102.26106724828182,
+          23.350179670362177
         ]
       },
       "properties": {
-        "id": "G578B1D98",
+        "id": "G6535AFE4",
         "type": "lights_sky",
-        "date": "2026-06-13",
+        "date": "2026-08-04",
         "recent": true,
         "isNew": false,
-        "title": "Luces en Metepec: Reportan avistamiento de objetos sobre el cielo del Edomex - MVS Noticias",
-        "description": "Google News. Búsqueda: 'luces extrañas cielo México'. Fuente: MVS Noticias.",
+        "title": "Luces extrañas en Cuautitlán Izcalli: vecinos reportan avistamientos - Diario de México",
+        "description": "Google News. Búsqueda: 'luces extrañas cielo México'. Fuente: Diario de México.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "MVS Noticias|https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2RDZ08yb2c0bS1BejhCR0FSbGN",
+        "sources": "Diario de México|https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2FzV0JXWk8tZ0VVMjhPUkh2SlR",
         "source_count": 2
       }
     },
@@ -2094,8 +2166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.80139177032393,
-          19.8992539866051
+          -98.86072674160634,
+          19.66622636295127
         ]
       },
       "properties": {
@@ -2118,8 +2190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.95409730848733,
-          19.36623678405777
+          -99.44271041266799,
+          19.941337977334054
         ]
       },
       "properties": {
@@ -2142,8 +2214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.88346110455942,
-          18.76662912212491
+          -100.12799847214761,
+          19.438661143750508
         ]
       },
       "properties": {
@@ -2157,8 +2229,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "ABC Noticias|https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGg4U2NacURtWFVBSUstM0JSV29",
-        "source_count": 2
+        "sources": "ABC Noticias|https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGg4U2NacURtWFVBSUstM0JSV29|https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS09YeEFrR0dPVWRVa0pYNzFBaUU|Récord",
+        "source_count": 4
       }
     },
     {
@@ -2166,32 +2238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.61541464453252,
-          18.59964982569569
-        ]
-      },
-      "properties": {
-        "id": "G88796467",
-        "type": "ufo",
-        "date": "2026-02-16",
-        "recent": true,
-        "isNew": false,
-        "title": "VIDEO: Captan OVNI sobrevolando la Ciudad de México - Récord",
-        "description": "Google News. Búsqueda: 'OVNI CDMX Ciudad de México'. Fuente: Récord.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "Récord|https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS09YeEFrR0dPVWRVa0pYNzFBaUU",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.03406306161662,
-          19.6246976083632
+          -98.39787092715632,
+          18.993099210582198
         ]
       },
       "properties": {
@@ -2214,8 +2262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.19684681367153,
-          19.81422784310297
+          -99.6421202420933,
+          18.531168909205775
         ]
       },
       "properties": {
@@ -2238,8 +2286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.83204680768364,
-          20.372122169803877
+          -99.60352433524254,
+          19.34638246644773
         ]
       },
       "properties": {
@@ -2262,8 +2310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.36757768107192,
-          19.14667396031198
+          -99.19548322273597,
+          19.94633457897734
         ]
       },
       "properties": {
@@ -2286,8 +2334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.30787693431537,
-          24.02709209776461
+          -100.60875896704948,
+          22.500626207693287
         ]
       },
       "properties": {
@@ -2310,8 +2358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.32734743432533,
-          20.02485531261313
+          -98.9780725027607,
+          18.902826601922463
         ]
       },
       "properties": {
@@ -2334,8 +2382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.06010980348827,
-          18.63549741665933
+          -99.3774325348559,
+          18.465683121667826
         ]
       },
       "properties": {
@@ -2358,8 +2406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.63731657058574,
-          18.86077999373426
+          -99.53310499486231,
+          18.315032412450243
         ]
       },
       "properties": {
@@ -2382,8 +2430,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.47281706305984,
-          18.954799430358396
+          -98.91315544738522,
+          18.476386515339435
         ]
       },
       "properties": {
@@ -2406,8 +2454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.42471222588487,
-          18.93412110500169
+          -97.7116226497029,
+          19.71880622596007
         ]
       },
       "properties": {
@@ -2430,8 +2478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.04857533433106,
-          18.171672722927546
+          -99.5070150075896,
+          19.97435861696284
         ]
       },
       "properties": {
@@ -2454,8 +2502,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.58192526577886,
-          19.261040456299092
+          -97.81288995285055,
+          19.865808472487068
         ]
       },
       "properties": {
@@ -2478,8 +2526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.19794540916705,
-          18.169971085123827
+          -98.73973417299996,
+          19.257129511347316
         ]
       },
       "properties": {
@@ -2493,8 +2541,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "N+|https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY015S0ljcHFjRzYxMmRfbS1JeDB",
-        "source_count": 2
+        "sources": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY015S0ljcHFjRzYxMmRfbS1JeDB|N+|Milenio|https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUh0SlBWbGJiOWdVMmRVeVFWTll",
+        "source_count": 4
       }
     },
     {
@@ -2502,8 +2550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.50876448765032,
-          18.416391946965586
+          -97.81679675551689,
+          19.581438531827654
         ]
       },
       "properties": {
@@ -2526,8 +2574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.48013111021842,
-          18.7095713683896
+          -97.87976604358926,
+          20.003092645638407
         ]
       },
       "properties": {
@@ -2550,32 +2598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.365610929581,
-          18.29889777594278
-        ]
-      },
-      "properties": {
-        "id": "G57FF5FF6",
-        "type": "volcano",
-        "date": "2024-05-09",
-        "recent": true,
-        "isNew": false,
-        "title": "VIDEO: Captan extraño objeto volando sobre el Popocatépetl - Hoy Tamaulipas",
-        "description": "Google News. Búsqueda: 'Popocatépetl objeto extraño'. Fuente: Hoy Tamaulipas.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "Hoy Tamaulipas|https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkREQzN3UjF1SC1HM0szT3lBbEI",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.78867652005896,
-          18.8202652908727
+          -99.35617858976711,
+          19.269165233654785
         ]
       },
       "properties": {
@@ -2598,22 +2622,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.14008028282436,
-          19.00475146725218
+          -98.8140823732087,
+          19.652509734264164
         ]
       },
       "properties": {
-        "id": "G6173EC7A",
+        "id": "G57FF5FF6",
         "type": "volcano",
-        "date": "2024-05-08",
+        "date": "2024-05-09",
         "recent": true,
         "isNew": false,
-        "title": "Captan extraño y enorme objeto luminoso cerca del volcán Popocatépetl [Video] - El Sol de Puebla - El Sol de México",
-        "description": "Google News. Búsqueda: 'Popocatépetl objeto extraño'. Fuente: El Sol de México.",
+        "title": "VIDEO: Captan extraño objeto volando sobre el Popocatépetl - Hoy Tamaulipas",
+        "description": "Google News. Búsqueda: 'Popocatépetl objeto extraño'. Fuente: Hoy Tamaulipas.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "El Sol de México|https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlRHNUlESm05N1NaOXpWNU45Ny1",
+        "sources": "Hoy Tamaulipas|https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkREQzN3UjF1SC1HM0szT3lBbEI",
         "source_count": 2
       }
     },
@@ -2622,8 +2646,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.09828673446195,
-          19.563633357743367
+          -98.4223425580324,
+          19.81408307192352
+        ]
+      },
+      "properties": {
+        "id": "G574ACAAE",
+        "type": "contact",
+        "date": "2026-03-19",
+        "recent": true,
+        "isNew": false,
+        "title": "¿OVNIS en el Popocatépetl? Luces misteriosas captadas desde un avión desatan teorías 👽🌋 Un video muestra objetos luminosos moviéndose cerca del cráter de “Don Goyo”, generando debate entre quienes hablan de actividad extraterrestre… y quienes b - Instagram",
+        "description": "Google News. Búsqueda: 'Popocatépetl objeto extraño'. Fuente: Instagram.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "Instagram|https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yS2toUk1rMFQ0R0p6eVFVallsT3B",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1258766294801,
+          19.913049914559505
         ]
       },
       "properties": {
@@ -2637,31 +2685,7 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "UnoTV|N+|https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS3V6eDBHUHVqbnZLTHJYQVdKNWV|https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRxWS1DbXVYREJiY2VEbm1RU3d",
-        "source_count": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.66095444997389,
-          19.135262393370624
-        ]
-      },
-      "properties": {
-        "id": "G574ACAAE",
-        "type": "contact",
-        "date": "2026-03-19",
-        "recent": true,
-        "isNew": false,
-        "title": "¿OVNIS en el Popocatépetl? Luces misteriosas captadas desde un avión desatan teorías 👽🌋 Un video muestra objetos luminosos moviéndose cerca del cráter de “Don Goyo”, generando debate entre quienes hablan de actividad extraterrestre… y quienes b - Instagram",
-        "description": "Google News. Búsqueda: 'Popocatépetl luces OVNI volcán'. Fuente: Instagram.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "Instagram|https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yS2toUk1rMFQ0R0p6eVFVallsT3B",
+        "sources": "UnoTV|https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRxWS1DbXVYREJiY2VEbm1RU3d",
         "source_count": 2
       }
     },
@@ -2670,8 +2694,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.70216608474499,
-          19.836256196453373
+          -98.98210939432197,
+          18.765969140737067
+        ]
+      },
+      "properties": {
+        "id": "GE6FB5C8A",
+        "type": "volcano",
+        "date": "2026-01-06",
+        "recent": true,
+        "isNew": false,
+        "title": "Captan Múltiples Objetos Luminosos Desplazándose Sobre el Volcán Popocatépetl - N+",
+        "description": "Google News. Búsqueda: 'Popocatépetl luces OVNI volcán'. Fuente: N+.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "N+|https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS3V6eDBHUHVqbnZLTHJYQVdKNWV",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.38445703920318,
+          19.939129841980105
         ]
       },
       "properties": {
@@ -2694,8 +2742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.48939965223234,
-          19.327322224748517
+          -98.9674416448595,
+          18.616045410121995
         ]
       },
       "properties": {
@@ -2718,8 +2766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.05959203839663,
-          19.603519671256606
+          -99.58662220877281,
+          18.986327581059733
         ]
       },
       "properties": {
@@ -2742,8 +2790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.78140155405781,
-          18.11608747466922
+          -98.57953846600454,
+          19.893976144079392
         ]
       },
       "properties": {
@@ -2766,8 +2814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.37532157052307,
-          18.572510419420375
+          -98.88600576008186,
+          19.455071079340343
         ]
       },
       "properties": {
@@ -2790,8 +2838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.11825422073203,
-          18.39415356827653
+          -98.9732711290917,
+          18.876016206246693
         ]
       },
       "properties": {
@@ -2814,8 +2862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.66372144524226,
-          19.51949447817395
+          -97.70287735063872,
+          18.860219250188663
         ]
       },
       "properties": {
@@ -2838,8 +2886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.31397822859397,
-          19.137906386880886
+          -97.86086781874728,
+          19.76046642031648
         ]
       },
       "properties": {
@@ -2862,32 +2910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.70103068769603,
-          18.529988534549535
-        ]
-      },
-      "properties": {
-        "id": "G289C98F7",
-        "type": "lights_sky",
-        "date": "2024-12-03",
-        "recent": true,
-        "isNew": false,
-        "title": "¿Un Ovni? Captan 'EXTRAÑA' luz triangular ascendiendo por el volcán Popocatépetl | VIDEO - Milenio",
-        "description": "Google News. Búsqueda: 'Popocatépetl luces OVNI volcán'. Fuente: Milenio.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "Milenio|https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUh0SlBWbGJiOWdVMmRVeVFWTll",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.85339726616766,
-          23.976422859417816
+          -103.86271649071081,
+          24.24194428921376
         ]
       },
       "properties": {
@@ -2910,8 +2934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.88290704775581,
-          24.651596490277825
+          -99.92633315789799,
+          24.704476150348494
         ]
       },
       "properties": {
@@ -2920,12 +2944,12 @@
         "date": "2023-07-23",
         "recent": true,
         "isNew": false,
-        "title": "¿Es un ovni? Captan extrañas luces en el cielo este domingo en Tamaulipas - Milenio",
-        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: Milenio.",
+        "title": "¿Es un ovni? Captan extrañas luces en el cielo este domingo en Tamaulipas - MILENIO",
+        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: MILENIO.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "Milenio|https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTA3dWF4ZG5BNVUtZ2RSNlYweU9",
+        "sources": "MILENIO|https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTA3dWF4ZG5BNVUtZ2RSNlYweU9",
         "source_count": 2
       }
     },
@@ -2934,8 +2958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.2480965194439,
-          23.435306457527414
+          -99.47136718739675,
+          24.516045937463378
         ]
       },
       "properties": {
@@ -2958,8 +2982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.9163363138863,
-          23.42188822879867
+          -99.82990434771611,
+          23.521441624441614
         ]
       },
       "properties": {
@@ -2982,8 +3006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.11623971381756,
-          23.435523116996954
+          -98.90363912844649,
+          24.48558518694759
         ]
       },
       "properties": {
@@ -3006,8 +3030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.02384756795854,
-          24.70076441820493
+          -99.32456258988516,
+          24.561472519907415
         ]
       },
       "properties": {
@@ -3030,32 +3054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.93167921958381,
-          21.80162884931796
-        ]
-      },
-      "properties": {
-        "id": "GA4D3C3D0",
-        "type": "contact",
-        "date": "2024-06-21",
-        "recent": true,
-        "isNew": false,
-        "title": "¿De dónde proviene la “teoría” de que los aliens protegen Tampico de fenómenos naturales? - Infobae",
-        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: Infobae.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "Infobae|https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDJ6LWxQeXZ0WV9fODBKUmpxY2R",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1443477990866,
-          23.93732634271063
+          -99.34875339371871,
+          24.82402911617953
         ]
       },
       "properties": {
@@ -3078,8 +3078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.3023970171037,
-          23.169754304756953
+          -98.12343312971801,
+          24.339737219154248
         ]
       },
       "properties": {
@@ -3088,12 +3088,12 @@
         "date": "2024-03-01",
         "recent": true,
         "isNew": false,
-        "title": "Extrañas luces aparecen en el cielo de Valle Hermoso, Tamaulipas ¿Ovnis? - Milenio",
-        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: Milenio.",
+        "title": "Extrañas luces aparecen en el cielo de Valle Hermoso, Tamaulipas ¿Ovnis? - MILENIO",
+        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: MILENIO.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "Milenio|https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1RiY3MwSnBKa1g0VC15Ui1VQ0N",
+        "sources": "MILENIO|https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1RiY3MwSnBKa1g0VC15Ui1VQ0N",
         "source_count": 2
       }
     },
@@ -3102,8 +3102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.8981682825679,
-          23.229575666991053
+          -99.99473531532342,
+          23.008777435851407
         ]
       },
       "properties": {
@@ -3126,8 +3126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.79894355826183,
-          22.909978034306516
+          -99.74675889652327,
+          21.80742737957066
         ]
       },
       "properties": {
@@ -3150,8 +3150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.82190463565064,
-          23.83640585602078
+          -98.23573500899141,
+          23.14500872634116
         ]
       },
       "properties": {
@@ -3174,8 +3174,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.43055828851298,
-          33.10670252045883
+          -99.20541133684121,
+          23.771401143399373
+        ]
+      },
+      "properties": {
+        "id": "G18337574",
+        "type": "lights_sky",
+        "date": "2024-11-25",
+        "recent": true,
+        "isNew": false,
+        "title": "Avistamientos en Tamaulipas: Luces que intrigan al mundo - MILENIO",
+        "description": "Google News. Búsqueda: 'Tamaulipas luces extrañas OVNI'. Fuente: MILENIO.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "MILENIO|https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDg4azVSN2FpbEtxQndRTGI0V0N",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15165408288668,
+          32.588531846102825
         ]
       },
       "properties": {
@@ -3198,8 +3222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.56133393736788,
-          32.57994808362697
+          -116.34097882327313,
+          32.847248293155694
         ]
       },
       "properties": {
@@ -3222,8 +3246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.92675480537578,
-          32.61085453171423
+          -116.69984141380398,
+          33.376649649970815
         ]
       },
       "properties": {
@@ -3246,8 +3270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.16078589315438,
-          22.314203153488883
+          -103.66588357683737,
+          24.923277898958478
         ]
       },
       "properties": {
@@ -3270,8 +3294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.73394288208293,
-          33.389475062968515
+          -117.3519737950819,
+          31.603088937909817
         ]
       },
       "properties": {
@@ -3285,8 +3309,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVBic0x4NC1JTm5BUVpyY29qRm1|Super Channel 12|https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUNfaXA3ZFloR3JENXpXOEJMMlR|MILENIO",
-        "source_count": 4
+        "sources": "MILENIO|https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUNfaXA3ZFloR3JENXpXOEJMMlR",
+        "source_count": 2
       }
     },
     {
@@ -3294,8 +3318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.73154984044758,
-          32.03074822675176
+          -117.91180713596164,
+          33.50188022060596
         ]
       },
       "properties": {
@@ -3318,8 +3342,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.50568132468658,
-          32.8916399722985
+          -117.24906204789094,
+          32.26274813937089
+        ]
+      },
+      "properties": {
+        "id": "G5C79B4DF",
+        "type": "ufo",
+        "date": "2022-06-28",
+        "recent": true,
+        "isNew": false,
+        "title": "VIDEOS: Reportan avistamiento OVNI en Tijuana y San Diego - Super Channel 12",
+        "description": "Google News. Búsqueda: 'Tijuana OVNI luces cielo'. Fuente: Super Channel 12.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "Super Channel 12|https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVBic0x4NC1JTm5BUVpyY29qRm1",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.64922693717808,
+          33.27549660795399
         ]
       },
       "properties": {
@@ -3342,8 +3390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.6490021006027,
-          32.77547376452225
+          -117.43502459771865,
+          32.62911835473979
         ]
       },
       "properties": {
@@ -3366,8 +3414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.18379935670717,
-          24.68374339834154
+          -101.98832396101973,
+          25.082799445721488
         ]
       },
       "properties": {
@@ -3390,8 +3438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.80634819090952,
-          33.10441331760819
+          -116.33822891630648,
+          32.91201568874109
         ]
       },
       "properties": {
@@ -3405,8 +3453,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS2R3bDV2SlZzRC00UXI4UlZzNmg|El Sol de México|La Nación|https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEQzREJsa2NWYUpRZFcxd2ZYd1V",
-        "source_count": 4
+        "sources": "El Sol de México|https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEQzREJsa2NWYUpRZFcxd2ZYd1V",
+        "source_count": 2
       }
     },
     {
@@ -3414,8 +3462,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.17175797382082,
-          25.0668229098768
+          -116.79471019660994,
+          31.69729665677531
+        ]
+      },
+      "properties": {
+        "id": "GEBE19DB6",
+        "type": "ufo",
+        "date": "2022-06-29",
+        "recent": true,
+        "isNew": false,
+        "title": "¿Ovnis en Tijuana y San Diego? Reportaron objetos extraños en el cielo y se generó un debate en redes - La Nación",
+        "description": "Google News. Búsqueda: 'Tijuana OVNI luces cielo'. Fuente: La Nación.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "La Nación|https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS2R3bDV2SlZzRC00UXI4UlZzNmg",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.14072572608508,
+          25.059703326388885
         ]
       },
       "properties": {
@@ -3438,32 +3510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.9199496212792,
-          21.503687496703733
-        ]
-      },
-      "properties": {
-        "id": "G8C3F68E4",
-        "type": "lights_sea",
-        "date": "2026-02-19",
-        "recent": true,
-        "isNew": false,
-        "title": "¿Bioluminiscencia cerca de Guadalajara? Te contamos dónde y cómo verla - México Desconocido",
-        "description": "Google News. Búsqueda: 'luces submarinas mar México'. Fuente: México Desconocido.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "México Desconocido|https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk8zYm1SaHlwclRvRzRUbktGTmF",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.90761494442238,
-          22.69238792079051
+          -89.78297337031468,
+          20.016345229004934
         ]
       },
       "properties": {
@@ -3486,8 +3534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.61085470657412,
-          15.1985196933181
+          -104.67622911315891,
+          19.57876542180405
         ]
       },
       "properties": {
@@ -3510,8 +3558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.54136121949821,
-          21.623803136527364
+          -103.93765078505385,
+          25.369255419048272
         ]
       },
       "properties": {
@@ -3534,8 +3582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.74395883215087,
-          20.097053190457274
+          -106.59153779641146,
+          24.94227049183298
         ]
       },
       "properties": {
@@ -3558,8 +3606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.99101569707939,
-          23.79947708055731
+          -101.04317148294575,
+          23.994356596455624
         ]
       },
       "properties": {
@@ -3582,22 +3630,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.84745664030774,
-          39.43507027600745
+          -101.0664559275051,
+          16.38796391980393
         ]
       },
       "properties": {
-        "id": "G324456E6",
+        "id": "GE3F441B4",
         "type": "uso",
-        "date": "2025-09-20",
+        "date": "2025-08-28",
         "recent": true,
         "isNew": false,
-        "title": "“Una invasora submarina”: científicos usan inteligencia artificial para rastrear un alga exótica en el Mar Argentino - Infobae",
+        "title": "El buque científico llegó a Uruguay: una estrella de mar “con patas” y otras especies asombrosas a 1.000 metros de profundidad - Infobae",
         "description": "Google News. Búsqueda: 'luces submarinas mar México'. Fuente: Infobae.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "Infobae|https://news.google.com/rss/articles/CBMigwJBVV95cUxOUWpxRFpfR3BRUHo1ZzBXY29nYkk",
+        "sources": "Infobae|https://news.google.com/rss/articles/CBMiggJBVV95cUxNYUdFblFlUTl4eFN6X2tPaURtTFB",
         "source_count": 2
       }
     },
@@ -3606,8 +3654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.02133262687767,
-          24.929392837751934
+          -103.4644817105994,
+          25.061786239795385
         ]
       },
       "properties": {
@@ -3630,8 +3678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.12416739335717,
-          22.00230864353323
+          -97.71829839110518,
+          24.064245401882665
         ]
       },
       "properties": {
@@ -3654,8 +3702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.75245540601304,
-          19.35820300946586
+          -107.73110271896817,
+          22.615381177812342
         ]
       },
       "properties": {
@@ -3678,8 +3726,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.29115105845013,
-          23.61611339260081
+          -96.18090479144229,
+          39.699676700233915
+        ]
+      },
+      "properties": {
+        "id": "G324456E6",
+        "type": "uso",
+        "date": "2025-09-20",
+        "recent": true,
+        "isNew": false,
+        "title": "“Una invasora submarina”: científicos usan inteligencia artificial para rastrear un alga exótica en el Mar Argentino - Infobae",
+        "description": "Google News. Búsqueda: 'luces submarinas mar México'. Fuente: Infobae.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "Infobae|https://news.google.com/rss/articles/CBMigwJBVV95cUxOUWpxRFpfR3BRUHo1ZzBXY29nYkk",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.41923183217278,
+          23.862393985172794
         ]
       },
       "properties": {
@@ -3702,8 +3774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.41103945826683,
-          37.34138886342733
+          -99.52820297864753,
+          39.98457772360398
         ]
       },
       "properties": {
@@ -3726,8 +3798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.47141027395801,
-          21.562867837527904
+          -99.44038259196945,
+          22.26408912953281
         ]
       },
       "properties": {
@@ -3750,8 +3822,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.84928515104484,
-          23.88674678231683
+          -104.39584308733149,
+          25.481959738828888
         ]
       },
       "properties": {
@@ -3774,8 +3846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.93871204342521,
-          21.806341057916843
+          -103.02531223174938,
+          21.61992715074191
         ]
       },
       "properties": {
@@ -3798,8 +3870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.07143071679744,
-          28.49379990687197
+          -102.54705192083966,
+          19.252853453347683
         ]
       },
       "properties": {
@@ -3822,8 +3894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.01430612276812,
-          24.64918837738286
+          -102.86828056172588,
+          21.61208663848941
         ]
       },
       "properties": {
@@ -3846,8 +3918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.95043131524572,
-          24.872732779652587
+          -104.18615954858289,
+          25.34965343438943
         ]
       },
       "properties": {
@@ -3870,8 +3942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.49666140117154,
-          24.15646049082386
+          -102.52969787752791,
+          23.653134680051217
         ]
       },
       "properties": {
@@ -3894,8 +3966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.82444703486871,
-          19.534942558985694
+          -99.72133021996058,
+          23.406500531068126
         ]
       },
       "properties": {
@@ -3918,32 +3990,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.85926496595157,
-          27.833254479723117
-        ]
-      },
-      "properties": {
-        "id": "G63444CB2",
-        "type": "contact",
-        "date": "2025-12-21",
-        "recent": true,
-        "isNew": false,
-        "title": "Hombre asegura haber sido abducido y lanza profecía: \"El contacto extraterrestre será en 2047\" - EL GRÁFICO",
-        "description": "Google News. Búsqueda: 'extraterrestre contacto México'. Fuente: EL GRÁFICO.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "MX",
-        "sources": "EL GRÁFICO|https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbzVNWEh0S2x0emRKSDRoNnJzUmN",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.53967625573578,
-          26.580561044668098
+          -100.36503307630942,
+          20.574357692118152
         ]
       },
       "properties": {
@@ -3966,8 +4014,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.146110152057,
-          26.433655556110686
+          -101.61532617804554,
+          24.987448966721722
+        ]
+      },
+      "properties": {
+        "id": "G72F139A3",
+        "type": "contact",
+        "date": "2026-06-20",
+        "recent": true,
+        "isNew": false,
+        "title": "La historia real detrás de una escena de ‘El Día de la Revelación’ que sí ocurrió en México - El Financiero",
+        "description": "Google News. Búsqueda: 'extraterrestre contacto México'. Fuente: El Financiero.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "El Financiero|https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWHlqc3hSc3A5M05UU3V1UVQ4SDF",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.91644686734733,
+          26.30051621627997
         ]
       },
       "properties": {
@@ -3981,8 +4053,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "MX",
-        "sources": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFJFU2NJZ2VTUUhNRTVlYjlCV3N|MVS Noticias|https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVphOWVuZmxuZnZRQ1BuVU5EZEF",
-        "source_count": 3
+        "sources": "MVS Noticias|https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVphOWVuZmxuZnZRQ1BuVU5EZEF",
+        "source_count": 2
       }
     },
     {
@@ -3990,8 +4062,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.28599917854153,
-          26.665170357723074
+          -101.00165617960204,
+          24.683937470413145
         ]
       },
       "properties": {
@@ -4014,8 +4086,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.7675559376274,
-          26.231845023390626
+          -101.13732144886293,
+          26.60286649608978
+        ]
+      },
+      "properties": {
+        "id": "G102CE04A",
+        "type": "lights_sky",
+        "date": "2026-09-15",
+        "recent": true,
+        "isNew": false,
+        "title": "¿OVNI en Monterrey? Revelan qué era la extraña luz del cielo ayer - INFO7",
+        "description": "Google News. Búsqueda: 'Monterrey OVNI luces'. Fuente: INFO7.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "INFO7|https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGtXVUUwVEttUG5ZaGItNlJVNDc",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.76055257335369,
+          25.270178523861798
         ]
       },
       "properties": {
@@ -4038,8 +4134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.0125349310299,
-          20.872456641284842
+          -97.57521310349948,
+          30.617695545254236
         ]
       },
       "properties": {
@@ -4062,8 +4158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.71225451396046,
-          25.175790606505213
+          -99.925129179069,
+          26.22894871866131
         ]
       },
       "properties": {
@@ -4086,8 +4182,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.86469167640682,
-          26.596109108899462
+          -100.73905606577955,
+          25.300485594337523
         ]
       },
       "properties": {
@@ -4110,8 +4206,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.37104515172419,
-          24.52830346837696
+          -100.15722094824986,
+          25.62380570329884
+        ]
+      },
+      "properties": {
+        "id": "GCFE3AEEF",
+        "type": "lights_sky",
+        "date": "2026-09-16",
+        "recent": true,
+        "isNew": false,
+        "title": "¿OVNI en Monterrey? Revelan qué provocó la extraña luz en el cielo - MVS Noticias",
+        "description": "Google News. Búsqueda: 'Monterrey OVNI luces'. Fuente: MVS Noticias.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "MX",
+        "sources": "MVS Noticias|https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFJFU2NJZ2VTUUhNRTVlYjlCV3N",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.20186886171456,
+          29.036799343078847
         ]
       },
       "properties": {
@@ -4134,8 +4254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.29085276426308,
-          25.472382993088623
+          -99.5084466194278,
+          25.094993211860242
         ]
       },
       "properties": {
@@ -4158,8 +4278,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.24987051445832,
-          26.63232940919478
+          -100.1150548095227,
+          26.266230684846295
         ]
       },
       "properties": {
@@ -4182,8 +4302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.24745296993574,
-          25.002285801497315
+          -99.4642471167182,
+          25.688521413273023
         ]
       },
       "properties": {
@@ -4206,8 +4326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.55073884062888,
-          21.973375056055225
+          -104.00625203213943,
+          22.011371750110243
         ]
       },
       "properties": {
@@ -4230,8 +4350,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.17033854068686,
-          24.492914546472733
+          -101.65489472427343,
+          19.261031048251684
         ]
       },
       "properties": {
@@ -4254,8 +4374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.04910428458385,
-          20.155333005106012
+          -103.36741755831028,
+          19.914487172831805
         ]
       },
       "properties": {
@@ -4278,8 +4398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.47970069268838,
-          23.761155507499968
+          -104.34976302542631,
+          25.519300485582203
         ]
       },
       "properties": {
@@ -4302,8 +4422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.30313412568395,
-          19.321334659686727
+          -87.84270747457153,
+          21.103941834903317
         ]
       },
       "properties": {
@@ -4326,8 +4446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.56329350502554,
-          23.79813220554636
+          -102.82883164709504,
+          23.997598752393408
         ]
       },
       "properties": {
@@ -4350,8 +4470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.35997735808255,
-          23.747056074094818
+          -101.58360120758553,
+          25.052481012752473
         ]
       },
       "properties": {
@@ -4374,8 +4494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.2199127456785,
-          21.391610624752253
+          -105.47663072027473,
+          21.314582650438943
         ]
       },
       "properties": {
@@ -4398,8 +4518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.88296728850025,
-          17.917051280235395
+          -100.55386927501368,
+          18.10428176927216
         ]
       },
       "properties": {
@@ -4422,8 +4542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.16189492236762,
-          19.067865015409794
+          -102.35349073571459,
+          16.873494572128354
         ]
       },
       "properties": {
@@ -4446,8 +4566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.4832743425607,
-          20.42812202293424
+          -103.1468305673324,
+          21.450313118342617
         ]
       },
       "properties": {
@@ -4470,8 +4590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.86396385318452,
-          21.36215773618975
+          -104.03252707159415,
+          20.40160028386386
         ]
       },
       "properties": {
@@ -4494,8 +4614,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.38763323376703,
-          17.948673311051362
+          -95.48308438281826,
+          17.396305622101636
         ]
       },
       "properties": {
@@ -4518,32 +4638,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.27997957094698,
-          14.969139918461424
-        ]
-      },
-      "properties": {
-        "id": "GADF3BE65",
-        "type": "contact",
-        "date": "2026-10-12",
-        "recent": true,
-        "isNew": false,
-        "title": "Carlos Perciavalle predijo una aparición extraterrestre relacionada con Trump - La Brújula 24",
-        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: La Brújula 24.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "La Brújula 24|https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWZmTEwyOHZSQ08ybzJ2b0VlSDA",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.57386000741411,
-          21.089146088816662
+          -97.6905580872726,
+          22.56051078501111
         ]
       },
       "properties": {
@@ -4566,8 +4662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.00931829453955,
-          19.022832495013073
+          -96.75919709120622,
+          18.806429187054718
         ]
       },
       "properties": {
@@ -4590,8 +4686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.23988782422958,
-          18.133755946306994
+          -101.13402122255916,
+          20.700602762155636
         ]
       },
       "properties": {
@@ -4614,32 +4710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.46783977463349,
-          14.352508564128364
-        ]
-      },
-      "properties": {
-        "id": "GD1DDBAA1",
-        "type": "contact",
-        "date": "2026-10-06",
-        "recent": true,
-        "isNew": false,
-        "title": "Un científico define la fecha en que los extraterrestres contactarán a la humanidad: “Nuestra especie se está volviendo más hábil para reconocer signos de vida” - La Nación",
-        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: La Nación.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "La Nación|https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVF9vLUpsVEUwejE5UDhjU0tQOHM",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7254163797774482,
-          38.51218704243525
+          -1.7367069404728874,
+          41.20617299432919
         ]
       },
       "properties": {
@@ -4662,8 +4734,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2225814627990355,
-          46.716272142979776
+          -98.79773000937406,
+          23.7849592996293
+        ]
+      },
+      "properties": {
+        "id": "GADF3BE65",
+        "type": "contact",
+        "date": "2026-10-12",
+        "recent": true,
+        "isNew": false,
+        "title": "Carlos Perciavalle predijo una aparición extraterrestre relacionada con Trump - La Brújula 24",
+        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: La Brújula 24.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "La Brújula 24|https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWZmTEwyOHZSQ08ybzJ2b0VlSDA",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.75794848288386,
+          23.528471400556313
+        ]
+      },
+      "properties": {
+        "id": "GD1DDBAA1",
+        "type": "contact",
+        "date": "2026-10-06",
+        "recent": true,
+        "isNew": false,
+        "title": "Un científico define la fecha en que los extraterrestres contactarán a la humanidad: “Nuestra especie se está volviendo más hábil para reconocer signos de vida” - La Nación",
+        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: La Nación.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "La Nación|https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVF9vLUpsVEUwejE5UDhjU0tQOHM",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40367849047965043,
+          46.472575491858244
         ]
       },
       "properties": {
@@ -4686,8 +4806,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.04396606611712,
-          15.924952612300498
+          -96.10357623761841,
+          18.509326127645203
+        ]
+      },
+      "properties": {
+        "id": "G8C10052E",
+        "type": "contact",
+        "date": "2026-06-30",
+        "recent": true,
+        "isNew": false,
+        "title": "👽 Gobiernos de todo el mundo se preparan para el primer contacto extraterrestre: acercamiento alienígenas ya está aquí - Facebook",
+        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: Facebook.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "Facebook|https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNGhUem9nNk9LR3BxWV9wbGFEZE9",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23028683981798,
+          23.4459595154936
         ]
       },
       "properties": {
@@ -4710,32 +4854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.37694981724503,
-          22.97465776695236
-        ]
-      },
-      "properties": {
-        "id": "GF481ADB1",
-        "type": "contact",
-        "date": "2026-07-01",
-        "recent": true,
-        "isNew": false,
-        "title": "📌 Gobiernos de todo el mundo se preparan para el primer contacto extraterrestre: acercamiento alienígenas ya está aquí - Facebook",
-        "description": "Google News. Búsqueda: 'extraterrestre contacto'. Fuente: Facebook.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "Facebook|https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeGU4czVjWkdvR21VeVkydFlmTm1",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.78063072738526,
-          21.34884440720307
+          -100.14408974526407,
+          19.539299041647553
         ]
       },
       "properties": {
@@ -4758,8 +4878,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.4459143991222,
-          20.126207872168255
+          -98.64767001614419,
+          18.310058971237716
         ]
       },
       "properties": {
@@ -4782,8 +4902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.56686665998947,
-          14.998685342631454
+          -97.05082562181819,
+          17.2158015304205
         ]
       },
       "properties": {
@@ -4806,8 +4926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.8120727984433,
-          22.844623267886018
+          -99.67183576434397,
+          19.91176886720675
         ]
       },
       "properties": {
@@ -4830,32 +4950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.74584613938195,
-          -0.5822144360720893
-        ]
-      },
-      "properties": {
-        "id": "GA056319D",
-        "type": "ufo",
-        "date": "2026-10-12",
-        "recent": true,
-        "isNew": false,
-        "title": "Conferencia en Cuenca sobre lugares de avistamiento ovni en Ecuador - El Mercurio",
-        "description": "Google News. Búsqueda: 'ovni avistamiento'. Fuente: El Mercurio.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "El Mercurio|https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkJ3M25Mb2dBQ0NjX0lQMHVPaTc",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.6644329086416,
-          40.41515200305484
+          -74.38372409461948,
+          41.03640325803511
         ]
       },
       "properties": {
@@ -4878,8 +4974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.03566553666434,
-          23.928371555556154
+          -98.47411903026665,
+          18.483699888407084
         ]
       },
       "properties": {
@@ -4902,8 +4998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.6755127418753,
-          23.80727264619068
+          -95.8738411559456,
+          17.362219829312373
         ]
       },
       "properties": {
@@ -4926,8 +5022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.77389424405217,
-          17.102848116604765
+          -94.77515898647555,
+          21.504890429061895
         ]
       },
       "properties": {
@@ -4950,32 +5046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.87442587778716,
-          19.343806757898996
-        ]
-      },
-      "properties": {
-        "id": "G2BD5100C",
-        "type": "ufo",
-        "date": "2026-08-10",
-        "recent": true,
-        "isNew": false,
-        "title": "🛸El Pentágono ha publicado un nuevo lote de archivos desclasificados sobre objetos voladores no identificados (ovnis), que incluye videos inéditos, recreaciones y documentos sobre objetos misteriosos. Las imágenes muestran objetos oscuros y circulares - Facebook",
-        "description": "Google News. Búsqueda: 'ovni avistamiento'. Fuente: Facebook.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "US",
-        "sources": "Facebook|https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ2hyYlg5TzFGbXIydTltVHJuUHB",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.15358105444372,
-          15.024646310787698
+          -99.51599245605146,
+          22.414847178783507
         ]
       },
       "properties": {
@@ -4998,8 +5070,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.270443123950706,
-          -13.957004777295234
+          -98.39610306183995,
+          21.73303506471172
+        ]
+      },
+      "properties": {
+        "id": "G2BD5100C",
+        "type": "ufo",
+        "date": "2026-08-10",
+        "recent": true,
+        "isNew": false,
+        "title": "🛸El Pentágono ha publicado un nuevo lote de archivos desclasificados sobre objetos voladores no identificados (ovnis), que incluye videos inéditos, recreaciones y documentos sobre objetos misteriosos. Las imágenes muestran objetos oscuros y circulares - Facebook",
+        "description": "Google News. Búsqueda: 'ovni avistamiento'. Fuente: Facebook.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "Facebook|https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ2hyYlg5TzFGbXIydTltVHJuUHB",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0449781424159,
+          -1.1393431811134278
+        ]
+      },
+      "properties": {
+        "id": "GA056319D",
+        "type": "ufo",
+        "date": "2026-10-12",
+        "recent": true,
+        "isNew": false,
+        "title": "Conferencia en Cuenca sobre lugares de avistamiento ovni en Ecuador - El Mercurio",
+        "description": "Google News. Búsqueda: 'ovni avistamiento'. Fuente: El Mercurio.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "US",
+        "sources": "El Mercurio|https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkJ3M25Mb2dBQ0NjX0lQMHVPaTc",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.13776493087338,
+          -15.768445666743057
         ]
       },
       "properties": {
@@ -5022,8 +5142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.31912311737413,
-          17.19089575980564
+          -98.06757065409906,
+          21.51453218386965
         ]
       },
       "properties": {
@@ -5046,8 +5166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.72522381350616,
-          -14.844575327411711
+          -52.42279863411116,
+          -12.722591774454456
         ]
       },
       "properties": {
@@ -5070,8 +5190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.00419203354212,
-          -13.766548232841085
+          -53.87985981838088,
+          -16.06624684254345
         ]
       },
       "properties": {
@@ -5094,8 +5214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.892606457829274,
-          -15.551160843899059
+          -50.489669082731176,
+          -15.293343799151979
         ]
       },
       "properties": {
@@ -5109,8 +5229,8 @@
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "BR",
-        "sources": "G1|https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUmJxN0c3OWxPb085OHVwTW0tcXl",
-        "source_count": 2
+        "sources": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWF9NdVFGbnN6bGZUa19SQWVkUTV|CNN Brasil|G1|https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUmJxN0c3OWxPb085OHVwTW0tcXl",
+        "source_count": 4
       }
     },
     {
@@ -5118,8 +5238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.45901926797764,
-          -14.566992270742881
+          -50.5567447554781,
+          -15.030164951683537
         ]
       },
       "properties": {
@@ -5142,8 +5262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.17275963314749,
-          -15.899868259102162
+          -52.83934036432445,
+          -14.610581428785668
         ]
       },
       "properties": {
@@ -5166,8 +5286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.05112405782217,
-          -11.061345180225358
+          -51.169086055065264,
+          -18.108561035378862
         ]
       },
       "properties": {
@@ -5190,8 +5310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.72550990227387,
-          -13.43213945730949
+          -53.470321838665186,
+          -12.287971059234815
         ]
       },
       "properties": {
@@ -5214,8 +5334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.40568233494788,
-          -16.169672462908615
+          -47.04594779708777,
+          -18.316121544002524
         ]
       },
       "properties": {
@@ -5238,32 +5358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.15422764912331,
-          -13.889417634188318
-        ]
-      },
-      "properties": {
-        "id": "G524B4CC6",
-        "type": "ufo",
-        "date": "2026-09-20",
-        "recent": true,
-        "isNew": false,
-        "title": "OVNI circular foi perseguido pelos EUA no Oriente Médio em 2025 e teria chegado a 800 km/h; veja vídeo - CNN Brasil",
-        "description": "Google News. Búsqueda: 'ovni avistamento'. Fuente: CNN Brasil.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "CNN Brasil|https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUZ1UkRrbmJyVk1DSjUtZHpSSWE",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.16001564082393,
-          -18.16839952325917
+          -55.218970942577606,
+          -16.5260931483896
         ]
       },
       "properties": {
@@ -5286,22 +5382,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.081551709592745,
-          -12.51771789545086
+          -51.00505719491352,
+          -14.874062551047473
         ]
       },
       "properties": {
-        "id": "GCD107587",
+        "id": "G524B4CC6",
         "type": "ufo",
-        "date": "2026-08-14",
+        "date": "2026-09-20",
         "recent": true,
         "isNew": false,
-        "title": "Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025 - CNN Brasil",
+        "title": "OVNI circular foi perseguido pelos EUA no Oriente Médio em 2025 e teria chegado a 800 km/h; veja vídeo - CNN Brasil",
         "description": "Google News. Búsqueda: 'ovni avistamento'. Fuente: CNN Brasil.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "BR",
-        "sources": "CNN Brasil|https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWF9NdVFGbnN6bGZUa19SQWVkUTV",
+        "sources": "CNN Brasil|https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUZ1UkRrbmJyVk1DSjUtZHpSSWE",
         "source_count": 2
       }
     },
@@ -5310,8 +5406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.64174216291924,
-          -15.131677791356804
+          -54.54890422387854,
+          -16.452483973600764
         ]
       },
       "properties": {
@@ -5334,8 +5430,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.8903784767234,
-          -13.32237782255226
+          -52.47745562058738,
+          -13.018604179881379
         ]
       },
       "properties": {
@@ -5358,8 +5454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.95079344055927,
-          -13.647996519467425
+          -50.852387448861485,
+          -19.014294669808596
         ]
       },
       "properties": {
@@ -5382,80 +5478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.16007697042968,
-          -13.601471323435245
-        ]
-      },
-      "properties": {
-        "id": "GCE4D1596",
-        "type": "ufo",
-        "date": "2026-05-22",
-        "recent": true,
-        "isNew": false,
-        "title": "Discos voadores? EUA divulgam novos arquivos com relatos sobre OVNIs; veja - CNN Brasil",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: CNN Brasil.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "CNN Brasil|https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDhXUDFkeUFxbjc1d3NQeWQwX3V",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.87116715805225,
-          -14.605794976916165
-        ]
-      },
-      "properties": {
-        "id": "G21DB3660",
-        "type": "lights_ground",
-        "date": "2026-06-04",
-        "recent": true,
-        "isNew": false,
-        "title": "A análise do OVNI gigante de Campo Largo, no Paraná - Diário do Nordeste",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Diário do Nordeste.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "Diário do Nordeste|https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS1F3VTdXdUkwc1JndUdHWXRhOU9",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.13103554445753,
-          -15.753562042749012
-        ]
-      },
-      "properties": {
-        "id": "GC9F12321",
-        "type": "contact",
-        "date": "2026-05-08",
-        "recent": true,
-        "isNew": false,
-        "title": "Governo Trump divulga arquivos inéditos sobre OVNIs e ‘vida extraterrestre’; veja fotos - VEJA",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: VEJA.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "VEJA|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjNObmw3T1A2RFFTTXFxZi1fM2l",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.683781083098395,
-          -13.913993952657412
+          -53.01770859738958,
+          -12.228542498031436
         ]
       },
       "properties": {
@@ -5478,70 +5502,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.70189383373011,
-          -14.062383494259336
+          -53.89557638334911,
+          -13.296402049552595
         ]
       },
       "properties": {
-        "id": "GAE41DE29",
-        "type": "ufo",
-        "date": "2026-05-08",
-        "recent": true,
-        "isNew": false,
-        "title": "EUA liberam arquivos sobre OVNIs que antes eram confidenciais; veja imagens - SBT News",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: SBT News.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "SBT News|https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjg5Qy1TelV6SkJReTd6cUJydlV",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.64765835828953,
-          -11.207646604080187
-        ]
-      },
-      "properties": {
-        "id": "GEA86606A",
-        "type": "ufo",
-        "date": "2026-05-08",
-        "recent": true,
-        "isNew": false,
-        "title": "Pentágono libera primeiros arquivos desclassificados sobre OVNIs e fenômenos anômalos não identificados - Poder Aéreo",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Poder Aéreo.",
-        "witnesses": 0,
-        "credibility": "BAJA (señal noticiosa)",
-        "country": "BR",
-        "sources": "Poder Aéreo|https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMWJlTVNkR3NkYWlBQ0loajdDTTF",
-        "source_count": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.51644293718583,
-          -12.669084542128555
-        ]
-      },
-      "properties": {
-        "id": "G9BC20374",
+        "id": "GCE4D1596",
         "type": "ufo",
         "date": "2026-05-22",
         "recent": true,
         "isNew": false,
-        "title": "EUA divulgam segundo lote de arquivos governamentais desclassificados sobre Ovnis - Brasil 247",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Brasil 247.",
+        "title": "Discos voadores? EUA divulgam novos arquivos com relatos sobre OVNIs; veja - CNN Brasil",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: CNN Brasil.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "BR",
-        "sources": "Brasil 247|https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3Bvc1dleElDNkZpeHhuekg5Vy1",
+        "sources": "CNN Brasil|https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDhXUDFkeUFxbjc1d3NQeWQwX3V",
         "source_count": 2
       }
     },
@@ -5550,22 +5526,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.66647398537271,
-          -14.91277184519134
+          -50.88450396369865,
+          -10.773081394335511
         ]
       },
       "properties": {
-        "id": "GCB4C87A1",
-        "type": "ufo",
-        "date": "2026-07-10",
+        "id": "G21DB3660",
+        "type": "lights_ground",
+        "date": "2026-06-04",
         "recent": true,
         "isNew": false,
-        "title": "Governo dos EUA divulga vídeo de OVINI registrado por militares em 2025 - Portal 98 FM Natal",
-        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Portal 98 FM Natal.",
+        "title": "A análise do OVNI gigante de Campo Largo, no Paraná - Diário do Nordeste",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Diário do Nordeste.",
         "witnesses": 0,
         "credibility": "BAJA (señal noticiosa)",
         "country": "BR",
-        "sources": "Portal 98 FM Natal|https://news.google.com/rss/articles/CBMingFBVV95cUxQSk9DSXJURmxpSlA2TzBYdHBQQjV",
+        "sources": "Diário do Nordeste|https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS1F3VTdXdUkwc1JndUdHWXRhOU9",
         "source_count": 2
       }
     },
@@ -5574,8 +5550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.268852196782724,
-          -16.658828070867628
+          -54.82968142154189,
+          -17.353457635796836
         ]
       },
       "properties": {
@@ -5598,8 +5574,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.06605175096914,
-          -12.833293245973579
+          -47.24079119753279,
+          -18.209806060955238
+        ]
+      },
+      "properties": {
+        "id": "GC9F12321",
+        "type": "contact",
+        "date": "2026-05-08",
+        "recent": true,
+        "isNew": false,
+        "title": "Governo Trump divulga arquivos inéditos sobre OVNIs e ‘vida extraterrestre’; veja fotos - VEJA",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: VEJA.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "BR",
+        "sources": "VEJA|https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjNObmw3T1A2RFFTTXFxZi1fM2l",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.224025406951355,
+          -10.02953256895221
+        ]
+      },
+      "properties": {
+        "id": "GEA86606A",
+        "type": "ufo",
+        "date": "2026-05-08",
+        "recent": true,
+        "isNew": false,
+        "title": "Pentágono libera primeiros arquivos desclassificados sobre OVNIs e fenômenos anômalos não identificados - Poder Aéreo",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Poder Aéreo.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "BR",
+        "sources": "Poder Aéreo|https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMWJlTVNkR3NkYWlBQ0loajdDTTF",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.51271926820935,
+          -9.293290129800912
+        ]
+      },
+      "properties": {
+        "id": "GAE41DE29",
+        "type": "ufo",
+        "date": "2026-05-08",
+        "recent": true,
+        "isNew": false,
+        "title": "EUA liberam arquivos sobre OVNIs que antes eram confidenciais; veja imagens - SBT News",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: SBT News.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "BR",
+        "sources": "SBT News|https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjg5Qy1TelV6SkJReTd6cUJydlV",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03142081745728,
+          -14.546760559072743
+        ]
+      },
+      "properties": {
+        "id": "G9BC20374",
+        "type": "ufo",
+        "date": "2026-05-22",
+        "recent": true,
+        "isNew": false,
+        "title": "EUA divulgam segundo lote de arquivos governamentais desclassificados sobre Ovnis - Brasil 247",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Brasil 247.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "BR",
+        "sources": "Brasil 247|https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3Bvc1dleElDNkZpeHhuekg5Vy1",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37063611350508,
+          -9.348767457079894
         ]
       },
       "properties": {
@@ -5622,8 +5694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.49377756067181,
-          -18.45987064502463
+          -53.96142230249676,
+          -15.76701139690057
         ]
       },
       "properties": {
@@ -5646,8 +5718,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -134.49278994963547,
-          0.8690118551228423
+          -55.827937496861495,
+          -9.48301595972638
+        ]
+      },
+      "properties": {
+        "id": "GBBE3950A",
+        "type": "ufo",
+        "date": "2026-05-22",
+        "recent": true,
+        "isNew": false,
+        "title": "Vídeo: Governo dos EUA divulga imagens de OVNI sendo abatido por caça militar - Hugo Gloss",
+        "description": "Google News. Búsqueda: 'fenômeno aéreo não identificado'. Fuente: Hugo Gloss.",
+        "witnesses": 0,
+        "credibility": "BAJA (señal noticiosa)",
+        "country": "BR",
+        "sources": "Hugo Gloss|https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkxBN0RvclVEaFo1OENhSmNqVHR",
+        "source_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.00273315238545,
+          46.02980714221242
         ]
       },
       "properties": {
@@ -5670,8 +5766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.54488104124243,
-          -46.79431293668579
+          137.03950013966983,
+          62.90388476791098
         ]
       },
       "properties": {
@@ -5694,8 +5790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.441051066400775,
-          -20.88131948037195
+          77.45525350596947,
+          61.741599310431354
         ]
       },
       "properties": {
@@ -5718,8 +5814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.698701266435826,
-          -12.948017956403838
+          -52.49377742107156,
+          -15.954811770528115
         ]
       },
       "properties": {
@@ -5742,8 +5838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.307440826085326,
-          -17.82753996660611
+          -124.84747244016793,
+          54.45645407981452
         ]
       },
       "properties": {
@@ -5766,8 +5862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.897956715890246,
-          26.61500936841692
+          -109.87345664500722,
+          60.53631085727798
         ]
       },
       "properties": {
@@ -5790,8 +5886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.94889737814006,
-          25.737862450450066
+          -105.23579490905063,
+          5.964779682776538
         ]
       },
       "properties": {
@@ -5814,8 +5910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.04052965667529,
-          -3.313161998947045
+          50.27144588103849,
+          27.786372546178328
         ]
       },
       "properties": {
@@ -5838,8 +5934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.86210360366596,
-          15.486000883032773
+          150.30665193929843,
+          33.44447009635563
         ]
       },
       "properties": {
@@ -5862,8 +5958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.20725936319653,
-          35.90257628924908
+          -119.30745084662905,
+          36.094044066713394
         ]
       },
       "properties": {
@@ -5886,8 +5982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.09859299123198,
-          -44.74323751429842
+          -11.436117531219708,
+          11.017425251912144
         ]
       },
       "properties": {
@@ -5910,8 +6006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8587855706757,
-          16.07109585285687
+          99.1357356614165,
+          29.31318316566923
         ]
       },
       "properties": {
@@ -5934,8 +6030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.069263131855678,
-          -50.47959695873754
+          -50.19733363644373,
+          56.41909881230892
         ]
       },
       "properties": {
@@ -5958,8 +6054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.03313312202687,
-          22.814506827603594
+          167.91530959873955,
+          60.73553187594145
         ]
       },
       "properties": {
@@ -5982,8 +6078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.35402888115652,
-          -44.833436706641976
+          165.69601981056468,
+          -11.696314953455058
         ]
       },
       "properties": {
@@ -6006,8 +6102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.17182429904928,
-          58.90043731328832
+          2.471570631673643,
+          -48.89616041347786
         ]
       },
       "properties": {
@@ -6030,8 +6126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.15138927060635,
-          32.888514900289145
+          53.81884879298579,
+          31.83640825898798
         ]
       },
       "properties": {
@@ -6054,8 +6150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -168.98994863417826,
-          -47.907419220903186
+          -118.21522728441128,
+          -25.214191363277344
         ]
       },
       "properties": {
@@ -6078,8 +6174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.3569971615234,
-          -45.08996168318845
+          -168.39689238640312,
+          43.76802666890107
         ]
       },
       "properties": {
@@ -6102,8 +6198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -144.4198058015931,
-          -1.0002343461899201
+          147.45485162910109,
+          34.372597704899945
         ]
       },
       "properties": {
@@ -6126,8 +6222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9155751003860075,
-          56.81965302882054
+          154.98609909177435,
+          37.515227149574315
         ]
       },
       "properties": {
@@ -6150,8 +6246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.17580786419796,
-          1.3724698360420433
+          -29.39568725138554,
+          -53.19501906803509
         ]
       },
       "properties": {
@@ -6174,8 +6270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.66816425986241,
-          -7.118181189099246
+          -80.19592627857914,
+          12.37933981752954
         ]
       },
       "properties": {
@@ -6198,8 +6294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.10353711052073,
-          59.065168954451195
+          -142.1008014538186,
+          -39.078616810679776
         ]
       },
       "properties": {
@@ -6222,8 +6318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.02274121053593,
-          43.70547709969948
+          51.651257856437155,
+          -26.88192298394626
         ]
       },
       "properties": {
@@ -6246,8 +6342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          101.74851051466567,
-          36.13272482197986
+          151.36119676328258,
+          38.551487724884794
         ]
       },
       "properties": {
@@ -6270,8 +6366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.45786776704011,
-          -15.186654654469287
+          18.941170153487178,
+          -28.30047803812329
         ]
       },
       "properties": {
@@ -6294,8 +6390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.96023553116346,
-          13.971179483875005
+          -97.25855924548043,
+          -12.569403976742102
         ]
       },
       "properties": {
@@ -6318,8 +6414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.32920636473875,
-          53.62256615168059
+          6.2960331477078455,
+          7.888135716281738
         ]
       },
       "properties": {
@@ -6342,8 +6438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.115981534183163,
-          14.227793831873214
+          22.860737799229923,
+          44.86831807266212
         ]
       },
       "properties": {
@@ -6366,8 +6462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.23981955191176,
-          -36.9011878391618
+          -61.993445860854195,
+          -39.523951462411105
         ]
       },
       "properties": {
@@ -6390,8 +6486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.32217878295112,
-          -37.20281149159412
+          -64.83476956839635,
+          -37.26355167954941
         ]
       },
       "properties": {
@@ -6414,8 +6510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.64700239323223,
-          26.237250479231346
+          -99.39404719456259,
+          26.598888440607922
         ]
       },
       "properties": {
@@ -6438,8 +6534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.1926297272836,
-          -38.426550323628014
+          -63.98882615419389,
+          -37.87555450507529
         ]
       },
       "properties": {
@@ -6462,8 +6558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -139.83476617412472,
-          -25.202040321581855
+          -118.34513760132634,
+          28.71411897588814
         ]
       },
       "properties": {
@@ -6486,8 +6582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.42046134174673,
-          24.662196383809018
+          -101.98695311145626,
+          23.56288750683457
         ]
       },
       "properties": {
@@ -6510,8 +6606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.070523840135121,
-          40.63530773674322
+          -2.1201606213238624,
+          38.82080043079032
         ]
       },
       "properties": {
@@ -6534,8 +6630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          111.46738140051184,
-          -10.524235439678968
+          110.97817707663654,
+          26.793105755514432
         ]
       },
       "properties": {
@@ -6558,8 +6654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.62194391829718,
-          3.6289129427106017
+          -75.47438991364567,
+          3.8809854801152297
         ]
       },
       "properties": {
@@ -6582,8 +6678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.40710947665777,
-          -35.74351072184142
+          -71.15051256121846,
+          -33.886856295547496
         ]
       },
       "properties": {
@@ -6606,8 +6702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.391411842660425,
-          -40.24560806040718
+          -63.90065261847782,
+          -38.000036326548205
         ]
       },
       "properties": {
@@ -6630,8 +6726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.96987338089109,
-          -38.07616465920602
+          -64.18441666802094,
+          -39.68230603348808
         ]
       },
       "properties": {
@@ -6654,8 +6750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.31127938747703,
-          -39.41268173893985
+          -62.59757119751004,
+          -37.44592974351776
         ]
       },
       "properties": {
@@ -6678,8 +6774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.7451231812576,
-          -36.9664455159068
+          -65.45364589637599,
+          -36.76441959906859
         ]
       },
       "properties": {
@@ -6702,8 +6798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.73990432655893,
-          6.848213955841317
+          -21.808832901390076,
+          -45.67575956750365
         ]
       },
       "properties": {
@@ -6726,8 +6822,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.8925366531692,
-          24.301165926382843
+          -103.59568007376704,
+          22.780755010680394
         ]
       },
       "properties": {
@@ -6750,8 +6846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.3664600418187,
-          16.030542791096494
+          -92.0632069297459,
+          16.985757888226203
         ]
       },
       "properties": {
@@ -6774,8 +6870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6868458880033,
-          40.36700075073045
+          -3.43826167297168,
+          42.19101640036593
         ]
       },
       "properties": {
@@ -6798,8 +6894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.5783331805751,
-          -37.84411665373461
+          -64.6096840340048,
+          -36.67146652645199
         ]
       },
       "properties": {
@@ -6822,8 +6918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.17961224103203,
-          4.563135657413804
+          -76.04896363362204,
+          4.408372693944825
         ]
       },
       "properties": {
